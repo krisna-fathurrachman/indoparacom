@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Landing Page - Start Bootstrap Theme</title>
+        <title>Indopara</title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <!-- Bootstrap icons-->
@@ -17,7 +17,8 @@
     </head>
     <body>
         <!-- Navigation-->
-        <nav class="navbar navbar-light bg-light static-top">
+
+        {{-- <nav class="navbar navbar-light bg-light static-top">
             <div class="container">
                 <div class="topleft">
                 <img src="assets/img/indopara.jpg" alt="logo" style="width:50px;height:50px;">
@@ -25,7 +26,28 @@
 
                 <!-- <a class="btn btn-primary" href="#signup">Sign Up</a> -->
             </div>
-        </nav>
+        </nav> --}}
+
+        <nav class="navbar navbar-expand-lg navbar-black bg-black static-top">
+            <div class="container-fluid">
+              <a class="navbar-brand" href="#"></a>
+              <img src="assets/img/indopara.jpg" alt="logo" style="width:100px;height:100px;">
+                <a class="navbar-brand" href="#"></a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                <div class="navbar-nav">
+                  {{-- <a class="nav-link active" aria-current="page" href="#">Home</a> --}}
+                  <a class="nav-link" href="#">Beranda</a>
+                  <a class="nav-link" href="#">Tentang Kami</a>
+                  <a class="nav-link" href="#">Produk</a>
+                  <a class="nav-link" href="#">Kontak</a>
+                </div>
+              </div>
+            </div>
+          </nav>
+
         <!-- Masthead-->
         <header class="masthead">
             <div class="container position-relative">
@@ -79,25 +101,32 @@
         <section class="features-icons bg-light text-center">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-4">
+                    <div class="col-lg-3">
                         <div class="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
                             <div class="features-icons-icon d-flex"><i class="bi-window m-auto text-primary"></i></div>
-                            <h3>Fully Responsive</h3>
-                            <p class="lead mb-0">This theme will look great on any device, no matter the size!</p>
+                            <h3>IT & Telekomunikasi System Integrator</h3>
+                            {{-- <p class="lead mb-0">This theme will look great on any device, no matter the size!</p> --}}
                         </div>
                     </div>
-                    <div class="col-lg-4">
+                    <div class="col-lg-3">
                         <div class="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
                             <div class="features-icons-icon d-flex"><i class="bi-layers m-auto text-primary"></i></div>
-                            <h3>Bootstrap 5 Ready</h3>
-                            <p class="lead mb-0">Featuring the latest build of the new Bootstrap 5 framework!</p>
+                            <h3>Representative Offices</h3>
+                            {{-- <p class="lead mb-0">Featuring the latest build of the new Bootstrap 5 framework!</p> --}}
                         </div>
                     </div>
-                    <div class="col-lg-4">
-                        <div class="features-icons-item mx-auto mb-0 mb-lg-3">
+                    <div class="col-lg-3">
+                        <div class="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
                             <div class="features-icons-icon d-flex"><i class="bi-terminal m-auto text-primary"></i></div>
-                            <h3>Easy to Use</h3>
-                            <p class="lead mb-0">Ready to use with your own content, or customize the source files!</p>
+                            <h3>TURNKEY Solution</h3>
+                            {{-- <p class="lead mb-0">Ready to use with your own content, or customize the source files!</p> --}}
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
+                            <div class="features-icons-icon d-flex"><i class="bi-terminal m-auto text-primary"></i></div>
+                            <h3>Military Provider</h3>
+                            {{-- <p class="lead mb-0">Ready to use with your own content, or customize the source files!</p> --}}
                         </div>
                     </div>
                 </div>
@@ -109,30 +138,30 @@
                 <div class="row g-0">
                     <div class="col-lg-6 order-lg-2 text-white showcase-img" style="background-image: url('assets/img/bg-showcase-1.jpg')"></div>
                     <div class="col-lg-6 order-lg-1 my-auto showcase-text">
-                        <h2>Fully Responsive Design</h2>
-                        <p class="lead mb-0">When you use a theme created by Start Bootstrap, you know that the theme will look great on any device, whether it's a phone, tablet, or desktop the page will behave responsively!</p>
+                        <h2>Visi</h2>
+                        <p class="lead mb-0">Menjadi perusahaan yang handal dan dipercaya dalam bidang penyedia barang, jasa, solusi telekomunikasi dan militer serta menjadi perusahaan yang mampu menjalankan fungsi sebagai perusahaan perwakilan secara maksima</p>
                     </div>
                 </div>
                 <div class="row g-0">
                     <div class="col-lg-6 text-white showcase-img" style="background-image: url('assets/img/bg-showcase-2.jpg')"></div>
                     <div class="col-lg-6 my-auto showcase-text">
-                        <h2>Updated For Bootstrap 5</h2>
-                        <p class="lead mb-0">Newly improved, and full of great utility classes, Bootstrap 5 is leading the way in mobile responsive web development! All of the themes on Start Bootstrap are now using Bootstrap 5!</p>
+                        <h2>Misi</h2>
+                        <p class="lead mb-0">Mampu memperkenalkan produk telekomunikasi dan alat militer berteknologi termutakhir, menjadi (perusahaan) rekan sekerja dalam penggunaan dan pengembangannya serta menjadi perusahaan yang terkemuka dalam memberikan layangan dukungan.</p>
                     </div>
                 </div>
-                <div class="row g-0">
+                {{-- <div class="row g-0">
                     <div class="col-lg-6 order-lg-2 text-white showcase-img" style="background-image: url('assets/img/bg-showcase-3.jpg')"></div>
                     <div class="col-lg-6 order-lg-1 my-auto showcase-text">
                         <h2>Easy to Use & Customize</h2>
                         <p class="lead mb-0">Landing Page is just HTML and CSS with a splash of SCSS for users who demand some deeper customization options. Out of the box, just add your content and images, and your new landing page will be ready to go!</p>
                     </div>
-                </div>
+                </div> --}}
             </div>
         </section>
         <!-- Testimonials-->
         <section class="testimonials text-center bg-light">
             <div class="container">
-                <h2 class="mb-5">What people are saying...</h2>
+                <h2 class="mb-5">Struktur Organisasi</h2>
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="testimonial-item mx-auto mb-5 mb-lg-0">
