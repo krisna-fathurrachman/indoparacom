@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html>
+  <head>
+  <link rel="stylesheet" type="text/css" href="/css/style.css">
+  </head>
 <style>
+
 body, html {
   height: 100%;
   margin: 0;
