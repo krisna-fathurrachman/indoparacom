@@ -22,6 +22,11 @@ Route::get('home', function () {
 Route::get('beranda', function () {
     return view('beranda');
 });
+<<<<<<< HEAD
 Route::get('berandasatu', function () {
     return view('berandasatu');
+=======
+Route::get('newberanda', function () {
+    return view('newberanda');
+>>>>>>> 707a5995387011cb1043b0ad63ca84819add2c26
 });
