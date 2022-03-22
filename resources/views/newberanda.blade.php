@@ -27,7 +27,7 @@
                     <ul class="navbar-nav ms-auto">
                     <a class="nav-link" href="#">Beranda</a>
                   <a class="nav-link" href="#about-section">Tentang Kami</a>
-                  <a class="nav-link" href="#">Produk</a>
+                  <a class="nav-link" href="#list-produk">Produk</a>
                   <a class="nav-link" href="#team">Team</a>
                   <a class="nav-link" href="#footer">Kontak</a>
                     </ul>
@@ -161,7 +161,7 @@
                        <img src="new/img/observer.jpg" alt="Gallery image 4" class="gallery__img">
                        
                    </figure>
-                   <a href="/produk" class="btn btn-secondary btn-lg active" role="button" aria-pressed="true">Lihat Produk Lebih Lengkap</a>
+                   <a href="/produk" class="btn btn-produk btn-secondary btn-lg active" role="button" aria-pressed="true">Lihat Produk Lebih Lengkap</a>
                </div>
            </div>
    
