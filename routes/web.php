@@ -28,3 +28,7 @@ Route::get('berandasatu', function () {
 Route::get('newberanda', function () {
     return view('newberanda');
 });
+
+Route::get('produk', function () {
+    return view('produk');
+});
