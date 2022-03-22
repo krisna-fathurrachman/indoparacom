@@ -9,6 +9,8 @@
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <!-- Font Awesome icons (free version)-->
        <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" crossorigin="anonymous"></script>
+       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+ 
         <!-- Google fonts-->
         <link href="https://fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900" rel="stylesheet" />
         <link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i" rel="stylesheet" />
@@ -133,6 +135,44 @@
                 </div>
             </div>
         </section>
+
+<!--Produk Kami-->
+<section id="list-produk">
+<div class="container">
+    <div class="text-center">
+        <h2 class="section-heading text-uppercase">Produk Kami</h2>
+    </div>
+    <div class="section3">
+        <div class="container">
+               <div class="gallery" >
+                   <figure class="gallery__item gallery__item--1" >
+                       <img src="new/img/alakran.jpg" alt="Gallery image 1" class="gallery__img" >
+                      
+                   </figure>
+                   <figure class="gallery__item gallery__item--2">
+                       <img src="new/img/producttank.jpg" alt="Gallery image 2" class="gallery__img">
+                       
+                   </figure>
+                   <figure class="gallery__item gallery__item--3">
+                       <img src="new/img/tankhigh.jpg" alt="Gallery image 3" class="gallery__img">
+                       
+                   </figure>
+                   <figure class="gallery__item gallery__item--4">
+                       <img src="new/img/observer.jpg" alt="Gallery image 4" class="gallery__img">
+                       
+                   </figure>
+                   <a href="/produk" class="btn btn-secondary btn-lg active" role="button" aria-pressed="true">Lihat Produk Lebih Lengkap</a>
+               </div>
+           </div>
+   
+   
+   </div>
+
+  
+</section>
+<!--End Produk Kami-->
+
+
 <!-- Team-->
 <section class="page-section bg-light" id="team">
             <div class="container">
@@ -240,6 +280,12 @@
         <!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
         
+
+    <script src="node_modules/jquery/dist/jquery.js"></script>
+<script src="js/scripts.js"></script>
     </body>
 </html>
