@@ -197,6 +197,7 @@
                 <p class="mb-0 text-muted">Direktur utama</p>
               </div>             
             </div>
+<<<<<<< Updated upstream
             <!--END OF TESTIMONIAL 1 -->
             <!--TESTIMONIAL 2 -->
             <div class="item">
@@ -243,6 +244,10 @@
       </div>
     </div>
   </section>
+=======
+        </section>
+        
+>>>>>>> Stashed changes
         <!-- Footer-->
 
         <footer class="py-5 bg-black" id="footer">
