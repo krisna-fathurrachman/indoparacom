@@ -10,12 +10,17 @@
         <!-- Font Awesome icons (free version)-->
        <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" crossorigin="anonymous"></script>
        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
- 
+        <!-- owlcarousel our team -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css"/>
         <!-- Google fonts-->
         <link href="https://fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900" rel="stylesheet" />
         <link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i" rel="stylesheet" />
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="new/css/styles.css" rel="stylesheet" />
+        <link href="new/css/ourteam.css" rel="stylesheet" />
+        
     </head>
     <body id="page-top">
         <!-- Navigation-->
@@ -174,49 +179,70 @@
 
 
 <!-- Team-->
-<section class="page-section bg-light" id="team">
-            <div class="container">
-                <div class="text-center">
-                    <h2 class="section-heading text-uppercase">Our Amazing Team</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
-                </div>
-                <div class="row">
-                    <div class="col-lg-4">
-                        <div class="team-member">
-                            <img class="mx-auto rounded-circle" src="assets/img/team/1.jpg" alt="..." />
-                            <h4>Parveen Anand</h4>
-                            <p class="text-muted">Lead Designer</p>
-                            <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
-                        </div>
-                    </div>
-                    <div class="col-lg-4">
-                        <div class="team-member">
-                            <img class="mx-auto rounded-circle" src="assets/img/team/2.jpg" alt="..." />
-                            <h4>Diana Petersen</h4>
-                            <p class="text-muted">Lead Marketer</p>
-                            <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
-                        </div>
-                    </div>
-                    <div class="col-lg-4">
-                        <div class="team-member">
-                            <img class="mx-auto rounded-circle" src="assets/img/team/3.jpg" alt="..." />
-                            <h4>Larry Parker</h4>
-                            <p class="text-muted">Lead Developer</p>
-                            <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-8 mx-auto text-center"><p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p></div>
-                </div>
+ <section class="testimonials bg-light" id="team">
+    <div class="container">
+ 
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="container-fluid px-3 px-sm-5 my-5 text-center">
+            <h2>Our Amazing Team </h2>
+          </div>
+          <div id="customers-testimonials" class="owl-carousel">
+ 
+            <!--TESTIMONIAL 1 -->
+            <div class="item">
+              <div class="shadow-lg p-4 bg-white rounded">
+                <img src="https://annedece.sirv.com/Images/pexels-andrea-piacquadio-762020%20(1).jpg" class="mx-auto rounded-circle" alt="">
+                <h5 class="pb-2 pt-3">A. Handiyana Sihombing</h5>
+                <p class="mb-0 text-muted">Direktur utama</p>
+              </div>             
             </div>
-        </section>
+            <!--END OF TESTIMONIAL 1 -->
+            <!--TESTIMONIAL 2 -->
+            <div class="item">
+              <div class="shadow-lg p-4 bg-white rounded">
+                <img  src="https://annedece.sirv.com/Images/pexels-andrea-piacquadio-839011.jpg" class="mx-auto rounded-circle" alt="">
+                <h5 class="pb-2 pt-3">Okke Triguna</h5>
+                <p class="mb-0 text-muted">General Manager</p>
+              </div>
+             
+            </div>
+            <!--END OF TESTIMONIAL 2 -->
+            <!--TESTIMONIAL 3 -->
+            <div class="item">
+              <div class="shadow-lg p-4 bg-white rounded">
+                <img src="https://annedece.sirv.com/Images/pexels-stefan-stefancik-91227.jpg" class="mx-auto rounded-circle" alt="">
+                <h5 class="pb-2 pt-3">Sofinal</h5>
+                <p class="mb-0 text-muted">Operational Manager</p>
+              </div>
+             
+            </div>
+            <!--END OF TESTIMONIAL 3 -->
+            <!--TESTIMONIAL 4 -->
+            <div class="item">
+              <div class="shadow-lg p-4 bg-white rounded">
+                <img  src="https://annedece.sirv.com/Images/pexels-tim-savage-736716.jpg" class="mx-auto rounded-circle" alt="">
+                <h5 class="pb-2 pt-3">Anastasya Dorothy Sinambela</h5>
+                <p class="mb-0 text-muted">Staf Sekretaris Direksi</p>
+              </div>
+              
+            </div>
+            <!--END OF TESTIMONIAL 4 -->
+            <!--TESTIMONIAL 5 -->
+            <div class="item">
+               <div class="shadow-lg p-4 bg-white rounded">
+                 <img  src="https://annedece.sirv.com/Images/pexels-tim-savage-736716.jpg" class="mx-auto rounded-circle" alt="">
+                 <h5 class="pb-2 pt-3">Hani Widyaningrum</h5>
+                 <p class="mb-0 text-muted">HRD</p>
+               </div>
+                    
+            </div>
+            <!--END OF TESTIMONIAL 5 -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
         <!-- Footer-->
 
         <footer class="py-5 bg-black" id="footer">
@@ -281,11 +307,40 @@
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
         
-
-    <script src="node_modules/jquery/dist/jquery.js"></script>
-<script src="js/scripts.js"></script>
+            <!-- owlcarousel -->
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+            <script>
+                jQuery(document).ready(function($) {
+                                "use strict";
+                                //  TESTIMONIALS CAROUSEL HOOK
+                                $('#customers-testimonials').owlCarousel({
+                                    loop: true,
+                                    center: true,
+                                    items: 3,
+                                    margin: 0,
+                                    autoplay: true,
+                                    dots:true,
+                                    autoplayTimeout: 5000,
+                                    smartSpeed: 450,
+                                    responsive: {
+                                    0: {
+                                        items: 1
+                                    },
+                                    768: {
+                                        items: 2
+                                    },
+                                    1170: {
+                                        items: 3
+                                    }
+                                    }
+                                });
+                            });
+            </script>
+        <script src="node_modules/jquery/dist/jquery.js"></script>
+        <script src="js/scripts.js"></script>
     </body>
 </html>

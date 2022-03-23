@@ -32,3 +32,7 @@ Route::get('newberanda', function () {
 Route::get('produk', function () {
     return view('produk');
 });
+
+Route::get('coba', function () {
+    return view('coba');
+});
