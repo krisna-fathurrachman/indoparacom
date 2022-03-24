@@ -13,7 +13,7 @@ body
  
 .badan
 {
-    width: 880px;
+    width: 1100px;
     margin: 35px auto;
     background-color: white;
     padding: 20px;
@@ -34,8 +34,8 @@ body
     border: 1px solid gainsboro;
     padding: 10px;
     float: left;
-    width: 200px;
-    margin: 5px;
+    width: 230px;
+    margin: 10px;
 }
  
 .list-produk:hover
@@ -87,3 +87,17 @@ body
 {
     background-color: black;
 }
+
+
+.zoom-effect {  
+    position: relative;
+    width: 100%;
+  
+    margin: 0 auto;
+    overflow: hidden;  
+  }
+
+.zoom-effect:hover .kotak img {
+    -webkit-transform: scale(1.08);
+    transform: scale(1.08);
+  }
