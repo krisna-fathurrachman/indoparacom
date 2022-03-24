@@ -26,7 +26,7 @@
     </nav>
      
     <div class="badan">
-        <h2>Kedaraan Militer</h2>
+        <h2>Kendaraan Militer</h2>
  
         <div class="list-produk">
                 <div class="zoom-effect">
