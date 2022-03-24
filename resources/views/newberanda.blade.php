@@ -62,7 +62,7 @@
                   <h2>Tentang Kami </h2>
                 </div>
                 <div class="col-lg-4">
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum illo nesciunt nisi atque corporis placeat nostrum quod magni consectetur commodi aut, quibusdam quam in tenetur ab, officia ratione delectus quaerat!</p>
+                  <p>PT. INDOPARA SISTA SEMESTA adalah perusahan yang bergerak dibidang Perdagangan barang dan jasa Peralatan TNI, Alat Telekomunikasi/Elektronik, Alat Teknis/Mekanikal/Elektrikal/Mesin dan Suku cadangnya.</p>
       
                   <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nobis, deserunt tenetur similique exercitationem officiis perspiciatis doloremque deleniti corrupti iste expedita atque odit commodi dolore qui maiores mollitia accusamus dolorum consequatur?</p>
                 </div>
@@ -149,21 +149,21 @@
     <div class="section3">
         <div class="container">
                <div class="gallery" >
+                 
                    <figure class="gallery__item gallery__item--1" >
-                       <img src="new/img/alakran.jpg" alt="Gallery image 1" class="gallery__img" >
-                      
+                       <img src="new/img/alakran.jpg" alt="Gallery image 1" class="gallery__img">    
                    </figure>
+
                    <figure class="gallery__item gallery__item--2">
                        <img src="new/img/producttank.jpg" alt="Gallery image 2" class="gallery__img">
-                       
                    </figure>
+
                    <figure class="gallery__item gallery__item--3">
                        <img src="new/img/tankhigh.jpg" alt="Gallery image 3" class="gallery__img">
-                       
                    </figure>
+
                    <figure class="gallery__item gallery__item--4">
                        <img src="new/img/observer.jpg" alt="Gallery image 4" class="gallery__img">
-                       
                    </figure>
                    <a href="/produk" class="btn btn-produk btn-secondary btn-lg active" role="button" aria-pressed="true">Lihat Produk Lebih Lengkap</a>
                </div>
