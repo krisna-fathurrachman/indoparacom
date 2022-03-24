@@ -33,6 +33,15 @@ Route::get('produk', function () {
     return view('produk');
 });
 
+Route::get('coba', function () {
+    return view('coba');
+});
+
 Route::get('contact', function () {
     return view('contact');
 });
+
+Route::get('kontak', function () {
+    return view('kontak');
+});
+
