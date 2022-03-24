@@ -33,12 +33,6 @@ Route::get('produk', function () {
     return view('produk');
 });
 
-<<<<<<< Updated upstream
-Route::get('coba', function () {
-    return view('coba');
-});
-=======
 Route::get('contact', function () {
     return view('contact');
 });
->>>>>>> Stashed changes

@@ -3031,6 +3031,7 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #fff;
+  size: 2px;
   background-color: #726208;
   border-color: #bbaa0e;
  
@@ -11332,7 +11333,7 @@ header.masthead {
   overflow: hidden;
   padding-top: calc(7rem + 72px);
   padding-bottom: 7rem;
-  background: url("/new/img/tankhd.png") no-repeat center center;
+  background: url("/new/img/tankhigh.jpg") no-repeat center center;
   -webkit-filter:brightness(25%);
   background-repeat: no-repeat;
   background-position: center center;
@@ -11386,10 +11387,12 @@ header.masthead .bg-circle-4 {
     padding-bottom: 10rem;
   }
   header.masthead .masthead-content .masthead-heading {
-    font-size: 6rem;
+    font-size: 4rem;
+    text-align: left;
   }
   header.masthead .masthead-content .masthead-subheading {
-    font-size: 4rem;
+    font-size: 2rem;
+    text-align: left;
   }
 }
 .team-member {

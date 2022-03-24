@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>One Page Wonder - Start Bootstrap Template</title>
+        <title>PT INDOPARA SISTA SEMESTA</title>
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <!-- Font Awesome icons (free version)-->
        <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" crossorigin="anonymous"></script>
@@ -26,15 +26,15 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-dark navbar-custom fixed-top">
             <div class="container px-5">
-                <img src="assets/img/logo.png" alt="logo" style="width:50px;height:50px;">
+                <img src="assets/img/newlogo.png" alt="logo" style="width:80px;height:80px;">
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
                     <a class="nav-link" href="#">Beranda</a>
-                  <a class="nav-link" href="#about-section">Tentang Kami</a>
-                  <a class="nav-link" href="#list-produk">Produk</a>
-                  <a class="nav-link" href="#team">Team</a>
-                  <a class="nav-link" href="#footer">Kontak</a>
+                    <a class="nav-link" href="#about-section">Tentang Kami</a>
+                    <a class="nav-link" href="#list-produk">Produk</a>
+                    <a class="nav-link" href="#team">Team</a>
+                    <a class="nav-link" href="#footer">Kontak</a>
                     </ul>
                 </div>
             </div>
@@ -45,7 +45,7 @@
                 <div class="container px-5">
                     <h1 class="masthead-heading mb-0">PT INDO PARA SISTA SEMESTA</h1>
                     <h2 class="masthead-subheading mb-6">MILITARY EQUIPMENT</h2>
-                    <a class="btn btn-primary btn-xl rounded-pill mt-5" href="#about-section">Read More</a>
+                    <a class="btn btn-primary btn-l rounded-pill mt-5" href="#about-section">Read More</a>
                 </div>
             </div>
             
@@ -58,9 +58,8 @@
                 <div class="container px-5">
                 <div class="row gx-5 align-items-center">
                 {{-- <div class="row "> --}}
-                <div class="col-12 mb-4 position-relative">
-                    
-                  <h2 class="section-title">Tentang Kami</h2>
+                <div class="container-fluid px-3 px-sm-5 my-5 text-center">
+                  <h2>Tentang Kami </h2>
                 </div>
                 <div class="col-lg-4">
                   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum illo nesciunt nisi atque corporis placeat nostrum quod magni consectetur commodi aut, quibusdam quam in tenetur ab, officia ratione delectus quaerat!</p>
@@ -91,9 +90,9 @@
 <!--End Service-->
 
 
-
+<!-- ini nanti dihapus -->
         <!-- Content section 1-->
-        <section id="scroll">
+        <!-- <section id="scroll">
             <div class="container px-5">
                 <div class="row gx-5 align-items-center">
                     <div class="col-lg-6 order-lg-2">
@@ -107,9 +106,9 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- Content section 2-->
-        <section>
+        <!-- <section>
             <div class="container px-5">
                 <div class="row gx-5 align-items-center">
                     <div class="col-lg-6">
@@ -123,9 +122,9 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- Content section 3-->
-        <section>
+        <!-- <section>
             <div class="container px-5">
                 <div class="row gx-5 align-items-center">
                     <div class="col-lg-6 order-lg-2">
@@ -139,13 +138,13 @@
                     </div>
                 </div>
             </div>
-        </section>
-
+        </section> -->
+<!-- batas dihapus -->
 <!--Produk Kami-->
 <section id="list-produk">
 <div class="container">
-    <div class="text-center">
-        <h2 class="section-heading text-uppercase">Produk Kami</h2>
+    <div class="container-fluid px-3 px-sm-5 my-5 text-center">
+        <h2>Produk Kami</h2>
     </div>
     <div class="section3">
         <div class="container">
@@ -192,17 +191,16 @@
             <!--TESTIMONIAL 1 -->
             <div class="item">
               <div class="shadow-lg p-4 bg-white rounded">
-                <img src="https://annedece.sirv.com/Images/pexels-andrea-piacquadio-762020%20(1).jpg" class="mx-auto rounded-circle" alt="">
+                <img src="new/img/team/akun.png" class="mx-auto rounded-circle" alt="">
                 <h5 class="pb-2 pt-3">A. Handiyana Sihombing</h5>
                 <p class="mb-0 text-muted">Direktur utama</p>
               </div>             
             </div>
-<<<<<<< Updated upstream
             <!--END OF TESTIMONIAL 1 -->
             <!--TESTIMONIAL 2 -->
             <div class="item">
               <div class="shadow-lg p-4 bg-white rounded">
-                <img  src="https://annedece.sirv.com/Images/pexels-andrea-piacquadio-839011.jpg" class="mx-auto rounded-circle" alt="">
+                <img  src="new/img/team/akun.png" class="mx-auto rounded-circle" alt="">
                 <h5 class="pb-2 pt-3">Okke Triguna</h5>
                 <p class="mb-0 text-muted">General Manager</p>
               </div>
@@ -212,7 +210,7 @@
             <!--TESTIMONIAL 3 -->
             <div class="item">
               <div class="shadow-lg p-4 bg-white rounded">
-                <img src="https://annedece.sirv.com/Images/pexels-stefan-stefancik-91227.jpg" class="mx-auto rounded-circle" alt="">
+                <img src="new/img/team/akun.png" class="mx-auto rounded-circle" alt="">
                 <h5 class="pb-2 pt-3">Sofinal</h5>
                 <p class="mb-0 text-muted">Operational Manager</p>
               </div>
@@ -222,7 +220,7 @@
             <!--TESTIMONIAL 4 -->
             <div class="item">
               <div class="shadow-lg p-4 bg-white rounded">
-                <img  src="https://annedece.sirv.com/Images/pexels-tim-savage-736716.jpg" class="mx-auto rounded-circle" alt="">
+                <img  src="new/img/team/akun.png" class="mx-auto rounded-circle" alt="">
                 <h5 class="pb-2 pt-3">Anastasya Dorothy Sinambela</h5>
                 <p class="mb-0 text-muted">Staf Sekretaris Direksi</p>
               </div>
@@ -232,7 +230,7 @@
             <!--TESTIMONIAL 5 -->
             <div class="item">
                <div class="shadow-lg p-4 bg-white rounded">
-                 <img  src="https://annedece.sirv.com/Images/pexels-tim-savage-736716.jpg" class="mx-auto rounded-circle" alt="">
+                 <img  src="new/img/team/akun.png" class="mx-auto rounded-circle" alt="">
                  <h5 class="pb-2 pt-3">Hani Widyaningrum</h5>
                  <p class="mb-0 text-muted">HRD</p>
                </div>
@@ -244,10 +242,6 @@
       </div>
     </div>
   </section>
-=======
-        </section>
-        
->>>>>>> Stashed changes
         <!-- Footer-->
 
         <footer class="py-5 bg-black" id="footer">
