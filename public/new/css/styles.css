@@ -11409,7 +11409,7 @@ header.masthead .bg-circle-4 {
   margin-bottom: 0;
 }
 
-.section3{
+/* .section3{
 	width: calc(100% - 40px);
 	height: calc(100vh - 80px);
 	padding: 20px;
@@ -11439,12 +11439,14 @@ header.masthead .bg-circle-4 {
   cursor: pointer;
 }
 
+
 .gallery__item--1 {
   grid-column-start: 5;
   grid-column-end: 7;
   grid-row-start: 1;
   grid-row-end: 3;
   overflow: hidden;
+
 
 }
 .gallery__item--1 img:hover {
@@ -11490,6 +11492,6 @@ header.masthead .bg-circle-4 {
 }
 .gallery__item--4 img:hover {
   transform: scale(1.1);
-}
+} */
 
 /* slider our team */

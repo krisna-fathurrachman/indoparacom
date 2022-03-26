@@ -20,13 +20,15 @@
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="new/css/styles.css" rel="stylesheet" />
         <link href="new/css/ourteam.css" rel="stylesheet" />
+        <link href="new/css/produk2.css" rel="stylesheet" />
+        
         
     </head>
     <body id="page-top">
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-dark navbar-custom fixed-top">
             <div class="container px-5">
-                <img src="assets/img/newlogo.png" alt="logo" style="width:80px;height:80px;">
+                <img src="new/img/newlogo.png" alt="logo" style="width:80px;height:80px;">
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
@@ -142,38 +144,51 @@
 <!-- batas dihapus -->
 <!--Produk Kami-->
 <section id="list-produk">
-<div class="container">
-    <div class="container-fluid px-3 px-sm-5 my-5 text-center">
-        <h2>Produk Kami</h2>
+    
+    <div class="konten-gambar">
+    <h1> Produk Kami</h1>
+    <div class="container-produk ">
+    
+        <div class="gallery-container w-2 h-2">
+            <div class="gallery-item">
+                <div class="image">
+                    <img src="new/img/alakran.jpg" alt="Alakran">
+                </div>
+                <div class="text"> ALakran </div>
+            </div>
+        </div>
+        <div class="gallery-container">
+            <div class="gallery-item">
+            <div class="image">
+                <img src="new/img/producttank.jpg" alt="Produktank">
+            </div>
+            <div class="text"> ProdukTank </div>
+            </div>
+        </div>
+        <div class="gallery-container">
+        <div class="gallery-item">
+            <div class="image">
+                <img src="new/img/tankhigh.jpg" alt="TankHigh">
+            </div>
+            <div class="text"> TankHigh </div>
+            </div>
+        </div>
+        <div class="gallery-container h-1">
+        <div class="gallery-item">
+            <div class="image">
+                <img src="new/img/soldier.jpg" alt="soldier">
+            </div>
+            <div class="text"> Soldier </div>
+            </div>
+        </div>
+        <div>
+        <a href="/produk" class="btn btn-produk btn-secondary btn-lg active" role="button" aria-pressed="true">Lihat Produk Lebih Lengkap</a>
+        </div>
+    </div> 
     </div>
-    <div class="section3">
-        <div class="container">
-               <div class="gallery" >
-                 
-                   <figure class="gallery__item gallery__item--1" >
-                       <img src="new/img/alakran.jpg" alt="Gallery image 1" class="gallery__img">    
-                   </figure>
+    </section>
+    
 
-                   <figure class="gallery__item gallery__item--2">
-                       <img src="new/img/producttank.jpg" alt="Gallery image 2" class="gallery__img">
-                   </figure>
-
-                   <figure class="gallery__item gallery__item--3">
-                       <img src="new/img/tankhigh.jpg" alt="Gallery image 3" class="gallery__img">
-                   </figure>
-
-                   <figure class="gallery__item gallery__item--4">
-                       <img src="new/img/observer.jpg" alt="Gallery image 4" class="gallery__img">
-                   </figure>
-                   <a href="/produk" class="btn btn-produk btn-secondary btn-lg active" role="button" aria-pressed="true">Lihat Produk Lebih Lengkap</a>
-               </div>
-           </div>
-   
-   
-   </div>
-
-  
-</section>
 <!--End Produk Kami-->
 
 
