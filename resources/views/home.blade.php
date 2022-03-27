@@ -1,68 +1,253 @@
 <!DOCTYPE html>
-<html>
+<html style="font-size: 16px;">
   <head>
-  <link rel="stylesheet" type="text/css" href="/css/style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="PT. INDOPARA SISTA SE​MESTA">
+    <meta name="description" content="">
+    <meta name="page_type" content="np-template-header-footer-from-plugin">
+    <title>Home</title>
+    <link rel="stylesheet" href="css/nicepage.css" media="screen">
+<link rel="stylesheet" href="css/Home.css" media="screen">
+    <script class="u-script" type="text/javascript" src="js/jquery-1.9.1.min.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="js/nicepage.js" defer=""></script>
+    <meta name="generator" content="Nicepage 4.7.8, nicepage.com">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+    <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
+    
+    
+    
+    
+    
+    <script type="application/ld+json">{
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "",
+    "logo": "images/default-logo.png"
+}</script>
+    <meta name="theme-color" content="#478ac9">
+    <meta property="og:title" content="Home">
+    <meta property="og:type" content="website">
   </head>
-<style>
-
-body, html {
-  height: 100%;
-  margin: 0;
-}
-
-.bgimg {
-  background-color: #000000;
-  height: 100%;
-  background-position: center;
-  background-size: cover;
-  position: relative;
-  color: #fff;
-  font-family: "Courier New", Courier, monospace;
-  font-size: 25px;
-}
-
-.topleft {
-  position: absolute;
-  top: 0;
-  left: 50px;
-}
-
-.bottomleft {
-  position: absolute;
-  bottom: 0;
-  left: 50px;
-}
-
-.middle {
-  position: absolute;
-  font-size:45px;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  text-align: center;
-}
-
-hr {
-  margin: auto;
-  width: 50%;
-}
-</style>
-<body>
-
-<div class="bgimg">
-  <div class="topleft">
-    <img src="img/indopara.jpg" alt="logo" style="width:130px;height:130px;">
-    <p></p>
-  </div>
-  <div class="middle">
-    <h1>COMING SOON</h1>
-    <hr>
+  <body class="u-body u-xl-mode"><header class="u-black u-clearfix u-header u-sticky u-sticky-4b43 u-header" id="sec-345c"><div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+        <a href="https://nicepage.com" class="u-image u-logo u-image-1">
+          <img src="images/default-logo.png" class="u-logo-image u-logo-image-1">
+        </a>
+        <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1">
+          <div class="menu-collapse u-custom-font" style="font-size: 1rem; letter-spacing: 0px; font-family: Poppins; font-weight: 700;">
+            <a class="u-button-style u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-text-active-color u-custom-text-hover-color u-custom-top-bottom-menu-spacing u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="#">
+              <svg class="u-svg-link" viewBox="0 0 24 24"><use xlink:href="#menu-hamburger"></use></svg>
+              <svg class="u-svg-content" version="1.1" id="menu-hamburger" viewBox="0 0 16 16" x="0px" y="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg"><g><rect y="1" width="16" height="2"></rect><rect y="7" width="16" height="2"></rect><rect y="13" width="16" height="2"></rect>
+</g></svg>
+            </a>
+          </div>
+          <div class="u-nav-container">
+            <ul class="u-custom-font u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1 u-text-hover-palette-3-dark-1" href="Home.html" style="padding: 10px 20px;">Home</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1 u-text-hover-palette-3-dark-1" href="About.html" style="padding: 10px 20px;">About</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1 u-text-hover-palette-3-dark-1" href="Contact.html" style="padding: 10px 20px;">Contact</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1 u-text-hover-palette-3-dark-1" href="Page-1.html" style="padding: 10px 20px;">Page 1</a>
+</li></ul>
+          </div>
+          <div class="u-nav-container-collapse">
+            <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
+              <div class="u-inner-container-layout u-sidenav-overflow">
+                <div class="u-menu-close"></div>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Home.html">Home</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="About.html">About</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Contact.html">Contact</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Page-1.html">Page 1</a>
+</li></ul>
+              </div>
+            </div>
+            <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
+          </div>
+        </nav>
+      </div></header>
+    <section class="u-align-left u-clearfix u-image u-shading u-section-1" src="" data-image-width="1920" data-image-height="1013" id="sec-80dc">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <h1 class="u-text u-text-custom-color-1 u-text-default u-title u-text-1">PT. INDOPARA SISTA SE​MESTA</h1>
+        <div class="u-border-3 u-border-custom-color-1 u-line u-line-horizontal u-line-1"></div>
+        <p class="u-large-text u-text u-text-variant u-text-2">MILITARY EQUIPMENT</p>
+        <a href="https://nicepage.com/wordpress-themes" class="u-btn u-button-style u-none u-text-custom-color-1 u-text-hover-palette-2-base u-btn-1">Read More<br>&nbsp;<span class="u-file-icon u-icon u-text-custom-color-1"><img src="images/2.png" alt=""></span>
+        </a>
+      </div>
+    </section>
+    <section class="u-black u-clearfix u-section-2" id="sec-53de">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <div class="u-container-style u-expanded-width u-group u-shape-rectangle u-group-1">
+          <div class="u-container-layout u-container-layout-1">
+            <h3 class="u-text u-text-custom-color-1 u-text-default u-text-1">ABO​UT US</h3>
+            <div class="u-border-3 u-border-custom-color-1 u-line u-line-horizontal u-line-1"></div>
+          </div>
+        </div>
+        <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
+          <div class="u-layout">
+            <div class="u-layout-row">
+              <div class="u-align-justify u-container-style u-layout-cell u-size-39 u-layout-cell-1">
+                <div class="u-container-layout u-container-layout-2">
+                  <p class="u-text u-text-default u-text-2"> PT. INDOPARA SISTA SEMESTA adalah perusahaan perdagangan barang dan jasa untuk instansi militer, maupun turnkey solution.<br>Didirikan pada tanggal 28 Desember 2021, yang Aktanya disahkan di Jakarta oleh Notaris Nurlisa Uke Desy, SH., M.Kn dengan Akta Nomor 551. PT. INDOPARA SISTA SEMESTA bergerak di bidang Perdagangan barang dan jasa peralatan TNI, Alat telekomunikasi/Elektronik, Alat Teknis/Mekanikal/Elektrikal/Mesin dan suku cadangnya.<br>Selama kurun waktu berjalannya perusahaan ini, lebih banyak fokus pada bidang peralatan, solusi Telekomunikasi dan alat militer.
+                  </p>
+                  <a href="https://nicepage.com/c/real-estate-website-templates" class="u-btn u-button-style u-none u-text-custom-color-1 u-text-hover-palette-2-base u-btn-1">our products&nbsp;<span class="u-file-icon u-icon u-text-custom-color-1"><img src="images/3.png" alt=""></span>
+                  </a>
+                </div>
+              </div>
+              <div class="u-container-style u-layout-cell u-size-21 u-layout-cell-2">
+                <div class="u-container-layout u-container-layout-3">
+                  <div class="u-container-style u-custom-color-1 u-group u-preserve-proportions u-shape-rectangle u-group-2">
+                    <div class="u-container-layout u-valign-middle u-container-layout-4">
+                      <a href="https://nicepage.com/website-builder" class="u-btn u-button-style u-none u-text-hover-palette-2-base u-text-palette-1-base u-btn-2">
+                        <span class="u-text-black">Read More&nbsp;</span><span class="u-file-icon u-icon"><img src="images/271228.png" alt=""></span>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="u-black u-clearfix u-section-3" id="sec-5bd0">
+      <div class="u-container-style u-group u-shape-rectangle u-group-1">
+        <div class="u-container-layout u-container-layout-1">
+          <h3 class="u-text u-text-custom-color-1 u-text-default u-text-1">OUR PRODUCTS</h3>
+          <div class="u-border-3 u-border-custom-color-1 u-line u-line-horizontal u-line-1"></div>
+        </div>
+      </div>
+      <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
+        <div class="u-layout">
+          <div class="u-layout-row">
+            <div class="u-size-30 u-size-60-md">
+              <div class="u-layout-col">
+                <div class="u-container-style u-effect-hover-zoom u-layout-cell u-shading u-size-60 u-layout-cell-1" data-image-width="553" data-image-height="359">
+                  <div class="u-background-effect u-expanded">
+                    <div class="u-background-effect-image u-expanded u-image u-shading u-image-1" data-image-width="553" data-image-height="359"></div>
+                  </div>
+                  <div class="u-container-layout u-container-layout-2">
+                    <h4 class="u-text u-text-default u-text-2">VEHICLES</h4>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="u-size-30 u-size-60-md">
+              <div class="u-layout-col">
+                <div class="u-size-30">
+                  <div class="u-layout-row">
+                    <div class="u-container-style u-effect-hover-zoom u-layout-cell u-shading u-size-30 u-layout-cell-2" data-image-width="275" data-image-height="183">
+                      <div class="u-background-effect u-expanded">
+                        <div class="u-background-effect-image u-expanded u-image u-shading u-image-2" data-image-width="275" data-image-height="183"></div>
+                      </div>
+                      <div class="u-container-layout u-container-layout-3">
+                        <h4 class="u-text u-text-default u-text-3">COMMUNICATIONS</h4>
+                      </div>
+                    </div>
+                    <div class="u-container-style u-effect-hover-zoom u-layout-cell u-shading u-size-30 u-layout-cell-3" data-image-width="226" data-image-height="223">
+                      <div class="u-background-effect u-expanded">
+                        <div class="u-background-effect-image u-expanded u-image u-shading u-image-3" data-image-width="226" data-image-height="223"></div>
+                      </div>
+                      <div class="u-container-layout u-container-layout-4">
+                        <h4 class="u-text u-text-default u-text-4">OTHER</h4>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="u-size-30">
+                  <div class="u-layout-row">
+                    <div class="u-container-style u-layout-cell u-size-60 u-layout-cell-4">
+                      <div class="u-container-layout u-container-layout-5">
+                        <img class="u-expanded-width u-hover-feature u-image u-image-default u-image-4" src="images/alakran.jpg" alt="" data-image-width="752" data-image-height="423">
+                        <h4 class="u-text u-text-default u-text-5">WEAPONS</h4>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+    </section>
+    <section class="u-black u-clearfix u-section-4" id="sec-641f">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <div class="u-container-style u-expanded-width u-group u-shape-rectangle u-group-1">
+          <div class="u-container-layout u-container-layout-1">
+            <h3 class="u-text u-text-custom-color-1 u-text-default u-text-1">CONTACT US</h3>
+            <div class="u-border-3 u-border-custom-color-1 u-line u-line-horizontal u-line-1"></div>
+          </div>
+        </div>
+        <div class="u-clearfix u-expanded-width u-gutter-0 u-layout-wrap u-layout-wrap-1">
+          <div class="u-layout">
+            <div class="u-layout-row">
+              <div class="u-container-style u-layout-cell u-size-21 u-layout-cell-1">
+                <div class="u-container-layout u-container-layout-2">
+                  <div class="u-container-style u-custom-color-1 u-group u-preserve-proportions u-shape-rectangle u-group-2">
+                    <div class="u-container-layout u-container-layout-3">
+                      <h4 class="u-text u-text-black u-text-default u-text-2">CONTACT INFORMATION</h4>
+                      <a href="https://nicepage.best" class="u-active-none u-bottom-left-radius-0 u-bottom-right-radius-0 u-btn u-btn-rectangle u-button-style u-hover-none u-none u-radius-0 u-text-black u-top-left-radius-0 u-top-right-radius-0 u-btn-1"><span class="u-icon"><svg class="u-svg-content" viewBox="0 0 405.333 405.333" x="0px" y="0px" style="width: 1em; height: 1em;"><path d="M373.333,266.88c-25.003,0-49.493-3.904-72.704-11.563c-11.328-3.904-24.192-0.896-31.637,6.699l-46.016,34.752    c-52.8-28.181-86.592-61.952-114.389-114.368l33.813-44.928c8.512-8.512,11.563-20.971,7.915-32.64    C142.592,81.472,138.667,56.96,138.667,32c0-17.643-14.357-32-32-32H32C14.357,0,0,14.357,0,32    c0,205.845,167.488,373.333,373.333,373.333c17.643,0,32-14.357,32-32V298.88C405.333,281.237,390.976,266.88,373.333,266.88z"></path></svg><img></span>
+                        <span style="font-size: 1.125rem; font-weight: 700;"> &nbsp; &nbsp;(021) 26<span style="font-weight: 700;"></span>055663
+                        </span>
+                      </a>
+                      <a href="https://nicepage.best" class="u-active-none u-bottom-left-radius-0 u-bottom-right-radius-0 u-btn u-btn-rectangle u-button-style u-hover-none u-none u-radius-0 u-text-black u-top-left-radius-0 u-top-right-radius-0 u-btn-2"><span class="u-file-icon u-icon"><img src="images/725643.png" alt=""></span>
+                        <span style="font-weight: 700;">
+                          <span style="font-size: 1.125rem; font-weight: 700;"> &nbsp; &nbsp;</span>indopara@gmail.com
+                        </span>
+                      </a>
+                      <p class="u-align-right u-text u-text-black u-text-3"><span class="u-file-icon u-icon"><img src="images/3179068.png" alt=""></span> &nbsp; &nbsp; Office Tower A Lantai 9,&nbsp; Mega Kemayoran.<br>Jl. Angkasa Kav. B-6<br>Kota Baru Bandar Kemayoran, Jakarta Pusat 10160
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="u-container-style u-layout-cell u-size-39 u-layout-cell-2">
+                <div class="u-container-layout u-container-layout-4">
+                  <div class="u-form u-form-1">
+                    <form action="//publish.nicepage.com/Form/Process" method="POST" class="u-clearfix u-form-spacing-24 u-form-vertical u-inner-form" style="padding: 24px;" source="email" name="form">
+                      <input type="hidden" id="siteId" name="siteId" value="1655911">
+                      <input type="hidden" id="pageId" name="pageId" value="1655921">
+                      <div class="u-form-group u-form-name u-label-none">
+                        <label for="name-3b9a" class="u-label">Name</label>
+                        <input type="text" placeholder="Enter your Name" id="name-3b9a" name="name" class="u-border-2 u-border-custom-color-1 u-border-no-left u-border-no-right u-border-no-top u-input u-input-rectangle u-input-1" required="">
+                      </div>
+                      <div class="u-form-email u-form-group u-label-none">
+                        <label for="email-3b9a" class="u-label">Email</label>
+                        <input type="email" placeholder="Enter a valid email address" id="email-3b9a" name="email" class="u-border-2 u-border-custom-color-1 u-border-no-left u-border-no-right u-border-no-top u-input u-input-rectangle u-input-2" required="">
+                      </div>
+                      <div class="u-form-group u-form-message u-label-none">
+                        <label for="message-3b9a" class="u-label">Message</label>
+                        <textarea placeholder="Enter your message" rows="4" cols="50" id="message-3b9a" name="message" class="u-border-2 u-border-custom-color-1 u-border-no-left u-border-no-right u-border-no-top u-input u-input-rectangle u-input-3" required=""></textarea>
+                      </div>
+                      <div class="u-align-right u-form-group u-form-submit">
+                        <a href="#" class="u-border-none u-btn u-btn-submit u-button-style u-custom-color-1 u-hover-palette-1-dark-1 u-btn-3"></a>
+                        <input type="submit" value="submit" class="u-form-control-hidden">
+                      </div>
+                      <div class="u-form-send-message u-form-send-success"> Thank you! Your message has been sent. </div>
+                      <div class="u-form-send-error u-form-send-message"> Unable to send your message. Please fix errors then try again. </div>
+                      <input type="hidden" value="" name="recaptchaResponse">
+                    </form>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
     
-  </div>
-  <div class="bottomleft">
     
-  </div>
-</div>
-
-</body>
+    <footer class="u-align-center u-clearfix u-footer u-grey-80 u-footer" id="sec-f729"><div class="u-clearfix u-sheet u-sheet-1">
+        <p class="u-small-text u-text u-text-variant u-text-1">Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
+      </div></footer>
+    <section class="u-backlink u-clearfix u-grey-80">
+      <a class="u-link" href="https://nicepage.com/website-templates" target="_blank">
+        <span>Website Templates</span>
+      </a>
+      <p class="u-text">
+        <span>created with</span>
+      </p>
+      <a class="u-link" href="" target="_blank">
+        <span>Website Builder Software</span>
+      </a>. 
+    </section>
+  </body>
 </html>
