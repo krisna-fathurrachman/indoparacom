@@ -230,7 +230,7 @@
     </div>
   </section>
 
-    <section class="u-black u-clearfix u-section-4" id="#contact-us">
+    <section class="u-black u-clearfix u-section-4" id="contact-us">
       <div class="u-clearfix u-sheet u-sheet-1">
         <div class="u-container-style u-expanded-width u-group u-shape-rectangle u-group-1">
           <div class="u-container-layout u-container-layout-1">
