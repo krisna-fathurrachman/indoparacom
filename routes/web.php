@@ -45,3 +45,7 @@ Route::get('kontak', function () {
     return view('kontak');
 });
 
+Route::get('tentangkami', function () {
+    return view('tentangkami');
+});
+
