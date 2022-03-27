@@ -14,8 +14,13 @@
     <meta name="generator" content="Nicepage 4.7.8, nicepage.com">
     <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
     <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
+     <!-- owlcarousel our team -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css"/>
     
-    
+    <link href="new/css/ourteam.css" rel="stylesheet" />
+    <link href="new/css/produk2.css" rel="stylesheet" />
     
     
     
@@ -30,8 +35,8 @@
     <meta property="og:type" content="website">
   </head>
   <body class="u-body u-xl-mode"><header class="u-black u-clearfix u-header u-sticky u-sticky-4b43 u-header" id="sec-345c"><div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
-        <a href="https://nicepage.com" class="u-image u-logo u-image-1">
-          <img src="images/default-logo.png" class="u-logo-image u-logo-image-1">
+        <a href="/home" class="u-image u-logo u-image-1">
+          <img src="new/img/newlogo.png" class="u-logo-image u-logo-image-1">
         </a>
         <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1">
           <div class="menu-collapse u-custom-font" style="font-size: 1rem; letter-spacing: 0px; font-family: Poppins; font-weight: 700;">
@@ -42,37 +47,39 @@
             </a>
           </div>
           <div class="u-nav-container">
-            <ul class="u-custom-font u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1 u-text-hover-palette-3-dark-1" href="Home.html" style="padding: 10px 20px;">Home</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1 u-text-hover-palette-3-dark-1" href="About.html" style="padding: 10px 20px;">About</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1 u-text-hover-palette-3-dark-1" href="Contact.html" style="padding: 10px 20px;">Contact</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1 u-text-hover-palette-3-dark-1" href="Page-1.html" style="padding: 10px 20px;">Page 1</a>
+            <ul class="u-custom-font u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1 u-text-hover-palette-3-dark-1" href="#" style="padding: 10px 20px;">Home</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1 u-text-hover-palette-3-dark-1" href="#about-section" style="padding: 10px 20px;">About</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1 u-text-hover-palette-3-dark-1" href="#product" style="padding: 10px 20px;">Product</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1 u-text-hover-palette-3-dark-1" href="#our-team" style="padding: 10px 20px;">Our Team</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1 u-text-hover-palette-3-dark-1" href="#contact-us" style="padding: 10px 20px;">Contact</a>
 </li></ul>
           </div>
           <div class="u-nav-container-collapse">
             <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
               <div class="u-inner-container-layout u-sidenav-overflow">
                 <div class="u-menu-close"></div>
-                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Home.html">Home</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="About.html">About</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Contact.html">Contact</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Page-1.html">Page 1</a>
-</li></ul>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="#">Home</a>
+                </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="#about-section">About</a>
+                </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="#product">Produk</a>
+                </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="#our-team">Our Team</a>
+                </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="#contact-us">Contact</a>
+                </li></ul>
               </div>
             </div>
             <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
           </div>
         </nav>
       </div></header>
-    <section class="u-align-left u-clearfix u-image u-shading u-section-1" src="" data-image-width="1920" data-image-height="1013" id="sec-80dc">
+    <section class="u-align-left u-clearfix u-image u-shading u-section-1"  data-image-width="1920" data-image-height="1013" id="sec-80dc">
       <div class="u-clearfix u-sheet u-sheet-1">
         <h1 class="u-text u-text-custom-color-1 u-text-default u-title u-text-1">PT. INDOPARA SISTA SE​MESTA</h1>
         <div class="u-border-3 u-border-custom-color-1 u-line u-line-horizontal u-line-1"></div>
         <p class="u-large-text u-text u-text-variant u-text-2">MILITARY EQUIPMENT</p>
-        <a href="https://nicepage.com/wordpress-themes" class="u-btn u-button-style u-none u-text-custom-color-1 u-text-hover-palette-2-base u-btn-1">Read More<br>&nbsp;<span class="u-file-icon u-icon u-text-custom-color-1"><img src="images/2.png" alt=""></span>
+        <a href="#about-section" class="u-btn u-button-style u-none u-text-custom-color-1 u-text-hover-palette-2-base u-btn-1">Read More<br>&nbsp;<span class="u-file-icon u-icon u-text-custom-color-1"><img src="images/2.png" alt=""></span>
         </a>
       </div>
     </section>
-    <section class="u-black u-clearfix u-section-2" id="sec-53de">
+    <section class="u-black u-clearfix u-section-2" id="about-section">
       <div class="u-clearfix u-sheet u-sheet-1">
         <div class="u-container-style u-expanded-width u-group u-shape-rectangle u-group-1">
           <div class="u-container-layout u-container-layout-1">
@@ -87,8 +94,7 @@
                 <div class="u-container-layout u-container-layout-2">
                   <p class="u-text u-text-default u-text-2"> PT. INDOPARA SISTA SEMESTA adalah perusahaan perdagangan barang dan jasa untuk instansi militer, maupun turnkey solution.<br>Didirikan pada tanggal 28 Desember 2021, yang Aktanya disahkan di Jakarta oleh Notaris Nurlisa Uke Desy, SH., M.Kn dengan Akta Nomor 551. PT. INDOPARA SISTA SEMESTA bergerak di bidang Perdagangan barang dan jasa peralatan TNI, Alat telekomunikasi/Elektronik, Alat Teknis/Mekanikal/Elektrikal/Mesin dan suku cadangnya.<br>Selama kurun waktu berjalannya perusahaan ini, lebih banyak fokus pada bidang peralatan, solusi Telekomunikasi dan alat militer.
                   </p>
-                  <a href="https://nicepage.com/c/real-estate-website-templates" class="u-btn u-button-style u-none u-text-custom-color-1 u-text-hover-palette-2-base u-btn-1">our products&nbsp;<span class="u-file-icon u-icon u-text-custom-color-1"><img src="images/3.png" alt=""></span>
-                  </a>
+                  
                 </div>
               </div>
               <div class="u-container-style u-layout-cell u-size-21 u-layout-cell-2">
@@ -107,68 +113,124 @@
         </div>
       </div>
     </section>
-    <section class="u-black u-clearfix u-section-3" id="sec-5bd0">
+    <!--Produk Kami-->
+    <section class="u-black u-clearfix u-section-3" id="product">
       <div class="u-container-style u-group u-shape-rectangle u-group-1">
         <div class="u-container-layout u-container-layout-1">
-          <h3 class="u-text u-text-custom-color-1 u-text-default u-text-1">OUR PRODUCTS</h3>
-          <div class="u-border-3 u-border-custom-color-1 u-line u-line-horizontal u-line-1"></div>
+        <div class="konten-gambar">
+        <h3 class="u-text u-text-custom-color-1 u-text-default u-text-1">OUR PRODUCTS</h3>
+        <div class="u-border-3 u-border-custom-color-1 u-line u-line-horizontal u-line-1"></div>
+        <div class="container-produk ">
+        
+      
+        <div class="gallery-container w-2 h-2">
+            <div class="gallery-item">
+                <div class="image">
+                    <img src="new/img/alakran.jpg" alt="Alakran">
+                </div>
+                <div class="text"> Alakran </div>
+            </div>
         </div>
-      </div>
-      <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
-        <div class="u-layout">
-          <div class="u-layout-row">
-            <div class="u-size-30 u-size-60-md">
-              <div class="u-layout-col">
-                <div class="u-container-style u-effect-hover-zoom u-layout-cell u-shading u-size-60 u-layout-cell-1" data-image-width="553" data-image-height="359">
-                  <div class="u-background-effect u-expanded">
-                    <div class="u-background-effect-image u-expanded u-image u-shading u-image-1" data-image-width="553" data-image-height="359"></div>
-                  </div>
-                  <div class="u-container-layout u-container-layout-2">
-                    <h4 class="u-text u-text-default u-text-2">VEHICLES</h4>
-                  </div>
-                </div>
-              </div>
+        <div class="gallery-container">
+            <div class="gallery-item">
+            <div class="image">
+                <img src="new/img/producttank.jpg" alt="Produktank">
             </div>
-            <div class="u-size-30 u-size-60-md">
-              <div class="u-layout-col">
-                <div class="u-size-30">
-                  <div class="u-layout-row">
-                    <div class="u-container-style u-effect-hover-zoom u-layout-cell u-shading u-size-30 u-layout-cell-2" data-image-width="275" data-image-height="183">
-                      <div class="u-background-effect u-expanded">
-                        <div class="u-background-effect-image u-expanded u-image u-shading u-image-2" data-image-width="275" data-image-height="183"></div>
-                      </div>
-                      <div class="u-container-layout u-container-layout-3">
-                        <h4 class="u-text u-text-default u-text-3">COMMUNICATIONS</h4>
-                      </div>
-                    </div>
-                    <div class="u-container-style u-effect-hover-zoom u-layout-cell u-shading u-size-30 u-layout-cell-3" data-image-width="226" data-image-height="223">
-                      <div class="u-background-effect u-expanded">
-                        <div class="u-background-effect-image u-expanded u-image u-shading u-image-3" data-image-width="226" data-image-height="223"></div>
-                      </div>
-                      <div class="u-container-layout u-container-layout-4">
-                        <h4 class="u-text u-text-default u-text-4">OTHER</h4>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="u-size-30">
-                  <div class="u-layout-row">
-                    <div class="u-container-style u-layout-cell u-size-60 u-layout-cell-4">
-                      <div class="u-container-layout u-container-layout-5">
-                        <img class="u-expanded-width u-hover-feature u-image u-image-default u-image-4" src="images/alakran.jpg" alt="" data-image-width="752" data-image-height="423">
-                        <h4 class="u-text u-text-default u-text-5">WEAPONS</h4>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
+            <div class="text"> ProdukTank </div>
             </div>
+        </div>
+        <div class="gallery-container">
+        <div class="gallery-item">
+            <div class="image">
+                <img src="new/img/tankhigh.jpg" alt="TankHigh">
+            </div>
+            <div class="text"> TankHigh </div>
+            </div>
+        </div>
+        <div class="gallery-container h-1">
+        <div class="gallery-item">
+            <div class="image">
+                <img src="new/img/soldier.jpg" alt="soldier">
+            </div>
+            <div class="text"> Soldier </div>
+            </div>
+        </div>
+        <a href="https://nicepage.com/c/real-estate-website-templates" class="u-btn u-button-style u-none u-text-custom-color-1 u-text-hover-palette-2-base u-btn-1">our products&nbsp;<span class="u-file-icon u-icon u-text-custom-color-1"><img src="images/3.png" alt=""></span>
+        </a>
+    </div> 
+    </div>
+    </section>
+    
+
+<!--End Produk Kami-->
+<!-- Team-->
+<section class="testimonials bg-black " id="our-team">
+    <div class="container">
+ 
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="container-fluid px-3 px-sm-5 my-5 text-center">
+            <h2>Our Amazing Team </h2>
+          </div>
+          <div class="u-border-3 u-border-custom-color-1 u-line u-line-horizontal u-line-1"></div>
+          <div id="customers-testimonials" class="owl-carousel">
+ 
+            <!--TESTIMONIAL 1 -->
+            <div class="item">
+              <div class="shadow-lg p-4 bg-white rounded">
+                <img src="new/img/team/akun.png" class="mx-auto rounded-circle" alt="">
+                <h5 class="pb-2 pt-3">A. Handiyana Sihombing</h5>
+                <p class="mb-0 text-muted">Direktur utama</p>
+              </div>             
+            </div>
+            <!--END OF TESTIMONIAL 1 -->
+            <!--TESTIMONIAL 2 -->
+            <div class="item">
+              <div class="shadow-lg p-4 bg-white rounded">
+                <img  src="new/img/team/akun.png" class="mx-auto rounded-circle" alt="">
+                <h5 class="pb-2 pt-3">Okke Triguna</h5>
+                <p class="mb-0 text-muted">General Manager</p>
+              </div>
+             
+            </div>
+            <!--END OF TESTIMONIAL 2 -->
+            <!--TESTIMONIAL 3 -->
+            <div class="item">
+              <div class="shadow-lg p-4 bg-white rounded">
+                <img src="new/img/team/akun.png" class="mx-auto rounded-circle" alt="">
+                <h5 class="pb-2 pt-3">Sofinal</h5>
+                <p class="mb-0 text-muted">Operational Manager</p>
+              </div>
+             
+            </div>
+            <!--END OF TESTIMONIAL 3 -->
+            <!--TESTIMONIAL 4 -->
+            <div class="item">
+              <div class="shadow-lg p-4 bg-white rounded">
+                <img  src="new/img/team/akun.png" class="mx-auto rounded-circle" alt="">
+                <h5 class="pb-2 pt-3">Anastasya Dorothy Sinambela</h5>
+                <p class="mb-0 text-muted">Staf Sekretaris Direksi</p>
+              </div>
+              
+            </div>
+            <!--END OF TESTIMONIAL 4 -->
+            <!--TESTIMONIAL 5 -->
+            <div class="item">
+               <div class="shadow-lg p-4 bg-white rounded">
+                 <img  src="new/img/team/akun.png" class="mx-auto rounded-circle" alt="">
+                 <h5 class="pb-2 pt-3">Hani Widyaningrum</h5>
+                 <p class="mb-0 text-muted">HRD</p>
+               </div>
+                    
+            </div>
+            <!--END OF TESTIMONIAL 5 -->
           </div>
         </div>
       </div>
-      
-    </section>
-    <section class="u-black u-clearfix u-section-4" id="sec-641f">
+    </div>
+  </section>
+
+    <section class="u-black u-clearfix u-section-4" id="#contact-us">
       <div class="u-clearfix u-sheet u-sheet-1">
         <div class="u-container-style u-expanded-width u-group u-shape-rectangle u-group-1">
           <div class="u-container-layout u-container-layout-1">
@@ -249,5 +311,35 @@
         <span>Website Builder Software</span>
       </a>. 
     </section>
+    <!-- owlcarousel -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+    <script>
+                                jQuery(document).ready(function($) {
+                                "use strict";
+                                //  TESTIMONIALS CAROUSEL HOOK
+                                $('#customers-testimonials').owlCarousel({
+                                    loop: true,
+                                    center: true,
+                                    items: 3,
+                                    margin: 0,
+                                    autoplay: true,
+                                    dots:true,
+                                    autoplayTimeout: 5000,
+                                    smartSpeed: 450,
+                                    responsive: {
+                                    0: {
+                                        items: 1
+                                    },
+                                    768: {
+                                        items: 2
+                                    },
+                                    1170: {
+                                        items: 3
+                                    }
+                                    }
+                                });
+                            });
+  </script>
   </body>
 </html>

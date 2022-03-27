@@ -36091,6 +36091,7 @@ a.u-link.u-text-hover-grey-90:hover {
         a.u-button-style.u-text-custom-color-1[class*="u-border-"]
         {
             color: #c17200 !important;
+            
         }
 
         a.u-button-style.u-text-custom-color-1:hover,
@@ -36276,6 +36277,7 @@ a.u-link.u-text-hover-grey-90:hover {
         {
         font-weight: 400;
         font-size: 2.25rem;
+        color:#c17200;
         line-height: 1.1;
         margin-top: 20px;
         margin-bottom: 20px;
@@ -36598,6 +36600,14 @@ a.u-link.u-text-hover-grey-90:hover {
     width: 340px;
   }
 }
+.bg-black{
+  background-color: #000;
+  color: #000;
+}
+.bg-black .h2{
+  color: #c17200;
+}
+
 
  /*begin-variables base-font-size*/ 
  html { font-size: 16px; }
