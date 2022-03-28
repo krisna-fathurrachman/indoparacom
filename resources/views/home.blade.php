@@ -34,7 +34,9 @@
     <meta property="og:title" content="Home">
     <meta property="og:type" content="website">
   </head>
-  <body class="u-body u-xl-mode"><header class="u-black u-clearfix u-header u-sticky u-sticky-4b43 u-header" id="sec-345c"><div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+  <body class="u-body u-xl-mode">
+    <header class="u-black u-clearfix u-header u-sticky u-sticky-4b43 u-header" id="sec-345c">
+      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
         <a href="/home" class="u-image u-logo u-image-1">
           <img src="new/img/newlogo.png" class="u-logo-image u-logo-image-1">
         </a>
@@ -101,7 +103,7 @@
                 <div class="u-container-layout u-container-layout-3">
                   <div class="u-container-style u-custom-color-1 u-group u-preserve-proportions u-shape-rectangle u-group-2">
                     <div class="u-container-layout u-valign-middle u-container-layout-4">
-                      <a href="https://nicepage.com/website-builder" class="u-btn u-button-style u-none u-text-hover-palette-2-base u-text-palette-1-base u-btn-2">
+                      <a href="/tentangkami" class="u-btn u-button-style u-none u-text-hover-palette-2-base u-text-palette-1-base u-btn-2">
                         <span class="u-text-black">Read More&nbsp;</span><span class="u-file-icon u-icon"><img src="images/271228.png" alt=""></span>
                       </a>
                     </div>

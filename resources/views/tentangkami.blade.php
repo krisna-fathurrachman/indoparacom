@@ -32,11 +32,11 @@
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
-                    <a class="nav-link" href="/newberanda">Beranda</a>
+                    <a class="nav-link" href="/home">Beranda</a>
                     <a class="nav-link" href="#">Tentang Kami</a>
-                    <a class="nav-link" href="/newberanda#list-produk">Produk</a>
-                    <a class="nav-link" href="/newberanda#team">Team</a>
-                    <a class="nav-link" href="/newberanda#footer">Kontak</a>
+                    <a class="nav-link" href="/home#list-produk">Produk</a>
+                    <a class="nav-link" href="/home#team">Team</a>
+                    <a class="nav-link" href="/home#footer">Kontak</a>
                     </ul>
                 </div>
             </div>
@@ -54,8 +54,8 @@
                   <h2>Tentang Kami </h2>
                 </div>
                 <div class="col-lg-6">
-                  <p>PT. INDOPARA SISTA SEMESTA adalah perusahan yang bergerak dibidang Perdagangan barang dan jasa Peralatan TNI, Alat Telekomunikasi/Elektronik, Alat Teknis/Mekanikal/Elektrikal/Mesin dan Suku cadangnya.</p>
-                  <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nobis, deserunt tenetur similique exercitationem officiis perspiciatis doloremque deleniti corrupti iste expedita atque odit commodi dolore qui maiores mollitia accusamus dolorum consequatur?</p>
+                  <p class="lead mb-0">PT. INDOPARA SISTA SEMESTA adalah perusahan yang bergerak dibidang Perdagangan barang dan jasa Peralatan TNI, Alat Telekomunikasi/Elektronik, Alat Teknis/Mekanikal/Elektrikal/Mesin dan Suku cadangnya.</p>
+                  <p class="lead mb-0"> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nobis, deserunt tenetur similique exercitationem officiis perspiciatis doloremque deleniti corrupti iste expedita atque odit commodi dolore qui maiores mollitia accusamus dolorum consequatur?</p>
                 </div>
                
                 <div class="col-lg-6">
