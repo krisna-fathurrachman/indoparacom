@@ -306,6 +306,7 @@
         <div class="footer-left">
           <img src="{{asset('new/img/newlogo.png')}}">
           <p class="footer-company-name">© 2021 PT. INDOPARA SISTA SEMESTA</p>
+         
             </div>
       
             <div class="footer-center">
@@ -322,7 +323,7 @@
               </div>
               <div>
                 <i class="fa fa-envelope"></i>
-                <p><a href="https://www.samuelpasaribu.com">indopara@gmail.com</a></p>
+                <p><a href="#">indopara@gmail.com</a></p>
               </div>
             </div>
             <div class="footer-right">
