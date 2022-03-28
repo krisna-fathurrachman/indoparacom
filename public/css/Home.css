@@ -1,4 +1,4 @@
- .u-section-1 {
+ .u-section-1  {
   /* background-image: linear-gradient(0deg, rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("images/tankhigh.jpg"); */
   /* background-position: 50% 77.52%; */
   background: url("/new/img/tankhigh.jpg") no-repeat center center;
@@ -6,11 +6,12 @@
   /* overflow: hidden; */
   /* padding-top: calc(7rem + 72px); */
   /* padding-bottom: 7rem; */
-  -webkit-filter:brightness(70%);
+  -webkit-filter:brightness(80%);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: scroll;
   background-size: cover;
+  
 }
 
 .u-section-1 .u-sheet-1 {

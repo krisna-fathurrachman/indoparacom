@@ -153,9 +153,9 @@
         <div class="gallery-container h-1">
         <div class="gallery-item">
             <div class="image">
-                <img src="new/img/soldier.jpg" alt="soldier">
+                <img src="new/img/observer3.jpg" alt="soldier">
             </div>
-            <div class="text"> Soldier </div>
+            <div class="text"> Observer </div>
             </div>
         </div>
         <a href="https://nicepage.com/c/real-estate-website-templates" class="u-btn u-button-style u-none u-text-custom-color-1 u-text-hover-palette-2-base u-btn-1">our products&nbsp;<span class="u-file-icon u-icon u-text-custom-color-1"><img src="images/3.png" alt=""></span>
