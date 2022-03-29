@@ -6,7 +6,7 @@
     <meta name="keywords" content="PT. INDOPARA SISTA SE​MESTA">
     <meta name="description" content="">
     <meta name="page_type" content="np-template-header-footer-from-plugin">
-    <title>Home</title>
+    <title>PT. INDOPARA SISTA SEMESTA</title>
     <link rel="stylesheet" href="css/nicepage.css" media="screen">
 <link rel="stylesheet" href="css/Home.css" media="screen">
     <script class="u-script" type="text/javascript" src="js/jquery-1.9.1.min.js" defer=""></script>
@@ -23,7 +23,7 @@
     <link href="new/css/produk2.css" rel="stylesheet" />
     <link href="css/footer.css" rel="stylesheet" />
     
-    
+    <link rel="icon" type="image/x-icon" href="assets/favicon_new.ico" />
     
     <script type="application/ld+json">{
     "@context": "http://schema.org",
@@ -283,7 +283,7 @@
                         <textarea placeholder="Enter your message" rows="4" cols="50" id="message-3b9a" name="message" class="u-border-2 u-border-custom-color-1 u-border-no-left u-border-no-right u-border-no-top u-input u-input-rectangle u-input-3" required=""></textarea>
                       </div>
                       <div class="u-align-right u-form-group u-form-submit">
-                        <a href="#" class="u-border-none u-btn u-btn-submit u-button-style u-custom-color-1 u-hover-palette-1-dark-1 u-btn-3"></a>
+                        <a href="#" class="u-border-none u-btn u-btn-submit u-button-style u-custom-color-1 u-hover-palette-1-dark-1 u-btn-3"> SUBMIT </a>
                         <input type="submit" value="submit" class="u-form-control-hidden">
                       </div>
                       <div class="u-form-send-message u-form-send-success"> Thank you! Your message has been sent. </div>
