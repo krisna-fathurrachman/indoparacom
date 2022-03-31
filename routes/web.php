@@ -56,3 +56,7 @@ Route::get('vehicles-list', function () {
 Route::get('weapons-list', function () {
     return view('weapons-list');
 });
+
+Route::get('communication-list', function () {
+    return view('communication-list');
+});
