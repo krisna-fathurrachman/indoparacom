@@ -49,6 +49,7 @@ footer{
 
 .footer-distributed{
 	/* background-color: #2c292f; */
+	position: relative;
     background-color: black;
 	box-sizing: border-box;
 	width: 100%;
