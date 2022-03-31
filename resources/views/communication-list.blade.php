@@ -31,7 +31,7 @@
   </head>
   <body class="u-body u-xl-mode"><header class="u-black u-clearfix u-header u-header" id="sec-345c"><div class="u-clearfix u-sheet u-valign-middle-xl u-sheet-1"><span class="u-file-icon u-icon u-text-custom-color-1 u-icon-1"><img src="images/1.png" alt=""></span>
         <p class="u-custom-font u-text u-text-custom-color-1 u-text-default-lg u-text-default-md u-text-default-sm u-text-default-xs u-text-1">
-          <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-custom-font u-hover-none u-none u-text-custom-color-1 u-btn-1" href="Home.html" data-page-id="1655921">Home </a>
+          <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-custom-font u-hover-none u-none u-text-custom-color-1 u-btn-1" href="/home" data-page-id="1655921">Home </a>
         </p>
       </div></header>
     <section class="u-black u-clearfix u-section-1" id="sec-609d">
