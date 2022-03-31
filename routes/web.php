@@ -52,3 +52,7 @@ Route::get('tentangkami', function () {
 Route::get('vehicles-list', function () {
     return view('vehicles-list');
 });
+
+Route::get('weapons-list', function () {
+    return view('weapons-list');
+});
