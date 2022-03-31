@@ -78,7 +78,7 @@ mobilitas tinggi.</p>
             <div class="u-layout-row">
               <div class="u-size-60">
                 <div class="u-layout-col">
-                  <div class="u-align-left u-container-style u-image u-layout-cell u-left-cell u-size-60 u-image-1" data-image-width="764" data-image-height="1080" src="images/alakran.jpg">
+                  <div class="u-align-left u-container-style u-image u-layout-cell u-left-cell u-size-60 u-image-1" data-image-width="764" data-image-height="1080" >
                     <div class="u-container-layout u-container-layout-2" src=""></div>
                   </div>
                 </div>
