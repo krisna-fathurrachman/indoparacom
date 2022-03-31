@@ -49,3 +49,6 @@ Route::get('tentangkami', function () {
     return view('tentangkami');
 });
 
+Route::get('vehicles-list', function () {
+    return view('vehicles-list');
+});
