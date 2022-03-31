@@ -60,3 +60,7 @@ Route::get('weapons-list', function () {
 Route::get('communication-list', function () {
     return view('communication-list');
 });
+
+Route::get('other-list', function () {
+    return view('other-list');
+});
