@@ -270,7 +270,7 @@
               <div class="u-container-style u-layout-cell u-size-39 u-layout-cell-2">
                 <div class="u-container-layout u-container-layout-4">
                   <div class="u-form u-form-1">
-                    <form action="//publish.nicepage.com/Form/Process" method="POST" class="u-clearfix u-form-spacing-24 u-form-vertical u-inner-form" style="padding: 24px;" source="email" name="form">
+                    <form action="https://formsubmit.co/krislamo@gmail.com" method="POST" class="u-clearfix u-form-spacing-24 u-form-vertical u-inner-form" style="padding: 24px;" source="email" name="form">
                       <input type="hidden" id="siteId" name="siteId" value="1655911">
                       <input type="hidden" id="pageId" name="pageId" value="1655921">
                       <div class="u-form-group u-form-name u-label-none">
