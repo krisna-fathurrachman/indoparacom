@@ -129,33 +129,36 @@
         <div class="gallery-container w-2 h-2">
             <div class="gallery-item">
                 <div class="image">
-                    <img src="new/img/alakran.jpg" alt="Alakran">
+                    <img src="new/img/producttank.jpg" alt="Vehicle">
                 </div>
-                <div class="text"> Alakran </div>
+                <div class="text"> Vehicles 
+               
+                </div>
+                
             </div>
         </div>
         <div class="gallery-container">
             <div class="gallery-item">
             <div class="image">
-                <img src="new/img/producttank.jpg" alt="Produktank">
+                <img src="new/img/alakran.jpg" alt="weapons">
             </div>
-            <div class="text"> ProdukTank </div>
+            <div class="text"> Weapons </div>
             </div>
         </div>
         <div class="gallery-container">
         <div class="gallery-item">
             <div class="image">
-                <img src="new/img/tankhigh.jpg" alt="TankHigh">
+                <img src="new/img/epmtrans.jpg" alt="communication">
             </div>
-            <div class="text"> TankHigh </div>
+            <div class="text"> Communication </div>
             </div>
         </div>
         <div class="gallery-container h-1">
         <div class="gallery-item">
             <div class="image">
-                <img src="new/img/observer3.jpg" alt="soldier">
+                <img src="new/img/observer3.jpg" alt="other">
             </div>
-            <div class="text"> Observer </div>
+            <div class="text"> Other </div>
             </div>
         </div>
         <!-- <a href="https://nicepage.com/c/real-estate-website-templates" class="u-btn u-button-style u-none u-text-custom-color-1 u-text-hover-palette-2-base u-btn-1">our products&nbsp;<span class="u-file-icon u-icon u-text-custom-color-1"><img src="images/3.png" alt=""></span>
