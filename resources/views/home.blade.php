@@ -129,37 +129,44 @@
         <div class="gallery-container w-2 h-2">
             <div class="gallery-item">
                 <div class="image">
+                   <a href="/vehicles-list">
                     <img src="new/img/producttank.jpg" alt="Vehicle">
                 </div>
-                <div class="text"> Vehicles 
-               
+                 <div class="text"> Vehicles 
+
                 </div>
-                
+               </a> 
             </div>
         </div>
         <div class="gallery-container">
             <div class="gallery-item">
             <div class="image">
+            <a href="/weapons-list">
                 <img src="new/img/alakran.jpg" alt="weapons">
             </div>
             <div class="text"> Weapons </div>
             </div>
+          </a>
         </div>
         <div class="gallery-container">
         <div class="gallery-item">
             <div class="image">
+            <a href="/communication-list">
                 <img src="new/img/epmtrans.jpg" alt="communication">
             </div>
             <div class="text"> Communication </div>
             </div>
+            </a>
         </div>
         <div class="gallery-container h-1">
         <div class="gallery-item">
             <div class="image">
+            <a href="/other-list">
                 <img src="new/img/observer3.jpg" alt="other">
             </div>
             <div class="text"> Other </div>
             </div>
+            </a>
         </div>
         <!-- <a href="https://nicepage.com/c/real-estate-website-templates" class="u-btn u-button-style u-none u-text-custom-color-1 u-text-hover-palette-2-base u-btn-1">our products&nbsp;<span class="u-file-icon u-icon u-text-custom-color-1"><img src="images/3.png" alt=""></span>
         </a> -->
