@@ -64,3 +64,11 @@ Route::get('communication-list', function () {
 Route::get('other-list', function () {
     return view('other-list');
 });
+
+Route::get('hometest', function () {
+    return view('hometest');
+});
+
+Route::get('about', function () {
+    return view('about');
+});
