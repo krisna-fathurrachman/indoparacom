@@ -1,12 +1,12 @@
  .u-section-1  {
   /* background-image: linear-gradient(0deg, rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("images/tankhigh.jpg"); */
   /* background-position: 50% 77.52%; */
-  background: url("/new/img/tankhigh.jpg") no-repeat center center;
+  background: url("/new/img/tankhigh1.jpg") no-repeat center center;
   position: relative;
   /* overflow: hidden; */
   /* padding-top: calc(7rem + 72px); */
   /* padding-bottom: 7rem; */
-  -webkit-filter:brightness(20%);
+  -webkit-filter:brightness(80%);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: scroll;
@@ -547,7 +547,7 @@
 }
 
 .u-section-4 .u-text-1 {
-  font-weight: 500;
+  font-weight: 700;
   margin: 16px auto 0;
 }
 
