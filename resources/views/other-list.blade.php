@@ -14,7 +14,9 @@
     <meta name="generator" content="Nicepage 4.7.8, nicepage.com">
     <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
     <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
-    
+    <link rel="stylesheet" href="css/footer.css">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+
     
     
     
@@ -68,7 +70,7 @@
     
     
     
-    <footer class="u-align-center u-clearfix u-footer u-grey-80 u-footer" id="sec-f729"><div class="u-clearfix u-sheet u-sheet-1">
+    {{-- <footer class="u-align-center u-clearfix u-footer u-grey-80 u-footer" id="sec-f729"><div class="u-clearfix u-sheet u-sheet-1">
         <p class="u-small-text u-text u-text-variant u-text-1">Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
       </div></footer>
     <section class="u-backlink u-clearfix u-grey-80">
@@ -81,7 +83,44 @@
       <a class="u-link" href="https://nicepage.com/website-builder" target="_blank">
         <span>Website Builder</span>
       </a>. 
-    </section>
+    </section> --}}
+    <footer class="footer-distributed">
+      <div class="footer-left">
+        <img src="{{asset('new/img/newlogo.png')}}">
+        <p class="footer-company-name">© 2021 PT. INDOPARA SISTA SEMESTA</p>
+       
+          </div>
+    
+          <div class="footer-center">
+            <div>
+              <i class="fa fa-map-marker"></i>
+                <p><span>Office Tower A Lantai 9, Mega Kemayoran</span><span>
+                Jl. Angkasa Kav. B-6 Kota Baru Bandar Kemayoran</span><span>
+                Jakarta Pusat - 10160</span></p>
+            </div>
+    
+            <div>
+              <i class="fa fa-phone"></i>
+              <p>(021) 26055663</p>
+            </div>
+            <div>
+              <i class="fa fa-envelope"></i>
+              <p><a href="#">indopara@gmail.com</a></p>
+            </div>
+          </div>
+          <div class="footer-right">
+            <p class="footer-company-about">
+              <span>About the company</span>
+              PT. INDOPARA SISTA SEMESTA adalah perusahaan perdagangan barang dan jasa untuk instansi militer, maupun turnkey solution..</p>
+            <div class="footer-icons">
+              <a href="#"><i class="fa fa-facebook"></i></a>
+              <a href="#"><i class="fa fa-twitter"></i></a>
+              <a href="#"><i class="fa fa-instagram"></i></a>
+              <a href="#"><i class="fa fa-linkedin"></i></a>
+              <a href="#"><i class="fa fa-youtube"></i></a>
+            </div>
+          </div>
+        </footer>
   <section class="u-align-center u-black u-clearfix u-container-style u-dialog-block u-opacity u-opacity-70 u-valign-middle-lg u-valign-middle-xl u-dialog-section-7" id="sec-0116">
       <div class="u-align-left u-container-style u-dialog u-shape-rectangle u-white u-dialog-1">
         <div class="u-container-layout u-valign-top-xs u-container-layout-1">
