@@ -6,14 +6,17 @@
     <meta name="keywords" content="ABOUT US, OUR PARTNERS">
     <meta name="description" content="">
     <meta name="page_type" content="np-template-header-footer-from-plugin">
-    <title>About</title>
-    <link rel="stylesheet" href="css/nicepage2.css" media="screen">
+    <title>PT INDOPARA SISTA SEMESTA</title>
+    <link rel="stylesheet" href="css/nicepage-about.css" media="screen">
 <link rel="stylesheet" href="css/about.css" media="screen">
     <script class="u-script" type="text/javascript" src="js/jquery-1.9.1.min.js" defer=""></script>
     <script class="u-script" type="text/javascript" src="js/nicepage.js" defer=""></script>
     <meta name="generator" content="Nicepage 4.8.2, nicepage.com">
     <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
-    
+    <link rel="icon" type="image/x-icon" href="assets/favicon_new.ico" />
+    <link rel="stylesheet" href="css/footer-about.css" />
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" />
+
     
     
     
@@ -27,9 +30,9 @@
     <meta property="og:title" content="About">
     <meta property="og:type" content="website">
   </head>
-  <body class="u-body u-xl-mode"><header class="u-clearfix u-header u-header" id="sec-b812"><div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+  <body class="u-body u-xl-mode"><header class="u-black u-clearfix u-header u-header" id="sec-b812"><div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
         <a href="https://nicepage.com" class="u-image u-logo u-image-1">
-          <img src="images/default-logo.png" class="u-logo-image u-logo-image-1">
+        <img src="new/img/newlogo.png" class="u-logo-image u-logo-image-1">
         </a>
         <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1">
           <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px;">
@@ -40,9 +43,9 @@
             </a>
           </div>
           <div class="u-nav-container">
-            <ul class="u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="Home.html" style="padding: 10px 20px;">Home</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="About.html" style="padding: 10px 20px;">About</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="Contact.html" style="padding: 10px 20px;">Contact</a>
+            <ul class="u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="/home" style="padding: 10px 20px;">Home</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="/about" style="padding: 10px 20px;">About</a>
+<!-- </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="Contact.html" style="padding: 10px 20px;">Contact</a> -->
 </li></ul>
           </div>
           <div class="u-nav-container-collapse">
@@ -132,7 +135,7 @@
       </div>
     </section>
     
-    
+<!--     
     <footer class="u-align-center u-clearfix u-footer u-grey-80 u-footer" id="sec-62b3"><div class="u-clearfix u-sheet u-sheet-1">
         <p class="u-small-text u-text u-text-variant u-text-1">Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
       </div></footer>
@@ -146,6 +149,86 @@
       <a class="u-link" href="" target="_blank">
         <span>Website Builder Software</span>
       </a>. 
-    </section>
+    </section> -->
+     <!-- Footer-->
+
+     <footer class="footer-distributed u-grey-80" >
+            <div class="footer-left">
+              <img src="{{asset('new/img/newlogo.png')}}">
+              <p class="footer-company-name">© 2021 PT. INDOPARA SISTA SEMESTA</p>
+             
+                </div>
+          
+                <div class="footer-center">
+                  <div>
+                    <i class="fa fa-map-marker"></i>
+                      <p><span>Office Tower A Lantai 9, Mega Kemayoran</span><span>
+                      Jl. Angkasa Kav. B-6 Kota Baru Bandar Kemayoran</span><span>
+                      Jakarta Pusat - 10160</span></p>
+                  </div>
+          
+                  <div>
+                    <i class="fa fa-phone"></i>
+                    <p>(021) 26055663</p>
+                  </div>
+                  <div>
+                    <i class="fa fa-envelope"></i>
+                    <p><a href="#">indopara@gmail.com</a></p>
+                  </div>
+                </div>
+                <div class="footer-right">
+                  <p class="footer-company-about">
+                    <span>About the company</span>
+                    PT. INDOPARA SISTA SEMESTA adalah perusahaan perdagangan barang dan jasa untuk instansi militer, maupun turnkey solution..</p>
+                  <div class="footer-icons">
+                    <a href="#"><i class="fa fa-facebook"></i></a>
+                    <a href="#"><i class="fa fa-twitter"></i></a>
+                    <a href="#"><i class="fa fa-instagram"></i></a>
+                    <a href="#"><i class="fa fa-linkedin"></i></a>
+                    <a href="#"><i class="fa fa-youtube"></i></a>
+                  </div>
+                </div>
+              </footer>
+
+        {{-- <footer class="py-5 u-grey-80" id="footer">
+            <div class="container">
+              <div class="row mb-5">
+                <div class="col-md-3">
+                  <h3 class="footer-title">Alamat</h3>
+                  <p><span class="d-inline-block d-md-block">Office Tower A Lantai 9,</span>Mega Kemayoran</p>
+                    <p><span class="d-inline-block d-md-block">Jl. Angkasa Kav.B-6,</span>Kota Baru Bandar Kemayoran, Jakarta Pusat. 10160<p>
+                </div>
+                <div class="col-md-5 mx-auto">
+                  <div class="row">
+                    <div class="col-lg-4">
+                      <h3 class="footer-title"></h3>
+                      <ul class="list-unstyled">
+                      </ul>
+                    </div>
+                    <div class="col-lg-4">
+                      <h3 class="footer-title"></h3>
+                      <ul class="list-unstyled">
+                      </ul>
+                    </div>
+                    <div class="col-lg-4">
+                      <h3 class="footer-title"></h3>
+                      <ul class="list-unstyled">
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-3">
+                  <h3 class="footer-title">Kontak Kami</h3>
+                </div>
+              </div>
+      
+              <div class="row">
+                <div class="col-12 text-center">
+                  
+                </div>
+              </div>
+            </div>
+          </footer> --}}
+        
   </body>
 </html>

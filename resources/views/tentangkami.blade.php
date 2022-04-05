@@ -54,7 +54,7 @@
                 {{-- <div class="row "> --}}
                 <div class="container-fluid px-3 px-sm-5 my-5 text-center">
                     <h2>Tentang Kami </h2>
-                  <h2>Tentang Kami </h2>
+                  
                 </div>
                 <div class="col-lg-6">
                   <p class="lead mb-0">PT. INDOPARA SISTA SEMESTA adalah perusahan yang bergerak dibidang Perdagangan barang dan jasa Peralatan TNI, Alat Telekomunikasi/Elektronik, Alat Teknis/Mekanikal/Elektrikal/Mesin dan Suku cadangnya.</p>
