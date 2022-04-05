@@ -72,3 +72,17 @@ Route::get('hometest', function () {
 Route::get('about', function () {
     return view('about');
 });
+
+// test email
+// Route::get('/send-mail', function(){
+//     $details =[
+//         'title' => 'Mail From Indopara Sista Semesta',
+//         'body' => 'This is from testing email smtp di env'
+//     ];
+//     \Mail::to('riskiwebsite78@gmail.com')->send(new \App\Mail\TestMail($details));
+//     echo "email has been send!";
+// });
+
+// Route::get('/contact-us','ContactController@contact');
+
+// Route::post('/contact-us','ContactController@contactSubmit')->name('contact.submit');

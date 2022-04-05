@@ -75,7 +75,7 @@
       </div></header>
     <section class="u-align-left u-clearfix u-image u-shading u-section-1"  data-image-width="1920" data-image-height="1013" id="sec-80dc">
       <div class="u-clearfix u-sheet u-sheet-1">
-        <h1 class="u-text u-text-custom-color-1 u-text-default u-title u-text-1">PT. INDOPARA SISTA SE​MESTA</h1>
+        <h1 class="u-text u-text-custom-color-1 u-text-default u-title u-text-1"><strong> PT. INDOPARA SISTA SE​MESTA</strong></h1>
         <div class="u-border-3 u-border-custom-color-1 u-line u-line-horizontal u-line-1"></div>
         <p class="u-large-text u-text u-text-variant u-text-2">MILITARY EQUIPMENT</p>
         <a href="#about-section" class="u-btn u-button-style u-none u-text-custom-color-1 u-text-hover-palette-2-base u-btn-1">Read More<br>&nbsp;<span class="u-file-icon u-icon u-text-custom-color-1"><img src="images/2.png" alt=""></span>
@@ -283,23 +283,23 @@
                       <input type="hidden" id="pageId" name="pageId" value="1655921">
                       <div class="u-form-group u-form-name u-label-none">
                         <label for="name-3b9a" class="u-label">Name</label>
-                        <input type="text" placeholder="Enter your Name" id="name-3b9a" name="name" class="u-border-2 u-border-custom-color-1 u-border-no-left u-border-no-right u-border-no-top u-input u-input-rectangle u-input-1" required="">
+                        <input type="text" placeholder="Enter your Name(disabled)" id="name-3b9a" name="name" class="u-border-2 u-border-custom-color-1 u-border-no-left u-border-no-right u-border-no-top u-input u-input-rectangle u-input-1" disabled>
                       </div>
                       <div class="u-form-email u-form-group u-label-none">
                         <label for="email-3b9a" class="u-label">Email</label>
-                        <input type="email" placeholder="Enter a valid email address" id="email-3b9a" name="email" class="u-border-2 u-border-custom-color-1 u-border-no-left u-border-no-right u-border-no-top u-input u-input-rectangle u-input-2" required="">
+                        <input type="email" placeholder="Enter a valid email address(disabled)" id="email-3b9a" name="email" class="u-border-2 u-border-custom-color-1 u-border-no-left u-border-no-right u-border-no-top u-input u-input-rectangle u-input-2" disabled>
                       </div>
                       <div class="u-form-group u-form-message u-label-none">
                         <label for="message-3b9a" class="u-label">Message</label>
-                        <textarea placeholder="Enter your message" rows="4" cols="50" id="message-3b9a" name="message" class="u-border-2 u-border-custom-color-1 u-border-no-left u-border-no-right u-border-no-top u-input u-input-rectangle u-input-3" required=""></textarea>
+                        <textarea placeholder="Enter your message (disabled)" rows="4" cols="50" id="message-3b9a" name="message" class="u-border-2 u-border-custom-color-1 u-border-no-left u-border-no-right u-border-no-top u-input u-input-rectangle u-input-3" disabled></textarea>
                       </div>
-                      <div class="u-align-right u-form-group u-form-submit">
-                        <a href="#" class="u-border-none u-btn u-btn-submit u-button-style u-custom-color-1 u-hover-palette-1-dark-1 u-btn-3"> SUBMIT </a>
-                        <input type="submit" value="submit" class="u-form-control-hidden">
+                      <!-- <div class="u-align-right u-form-group u-form-submit"> -->
+                        <!-- " class="u-border-none u-btn u-btn-submit u-button-style u-custom-color-1 u-hover-palette-1-dark-1 u-btn-3"> SUBMIT </a> -->
+                        <!-- <input type="submit" value="submit" class="u-form-control"> -->
+                      <!-- </div> -->
+                      <div class="u-align-right u-form-group u-form-">
+                      <a href="mailto:riskiwebsite78@gmail.com?subject=Subject atau judul&body=Pesanan anda"> Pesan lewat Email</a>
                       </div>
-                      <div class="u-form-send-message u-form-send-success"> Thank you! Your message has been sent. </div>
-                      <div class="u-form-send-error u-form-send-message"> Unable to send your message. Please fix errors then try again. </div>
-                      <input type="hidden" value="" name="recaptchaResponse">
                     </form>
                   </div>
                 </div>
