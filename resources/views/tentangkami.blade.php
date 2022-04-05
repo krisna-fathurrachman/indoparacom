@@ -21,6 +21,9 @@
         <link href="new/css/styles.css" rel="stylesheet" />
         <link href="css/styles.css" rel="stylesheet" />
         <link href="new/css/tentangkami.css" rel="stylesheet" />
+        <link rel="stylesheet" href="css/footer.css" />
+        <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" />
+
         
         
     </head>
@@ -143,7 +146,45 @@
 
         <!-- Footer-->
 
-        <footer class="py-5 bg-black" id="footer">
+        <footer class="footer-distributed">
+            <div class="footer-left">
+              <img src="{{asset('new/img/newlogo.png')}}">
+              <p class="footer-company-name">© 2021 PT. INDOPARA SISTA SEMESTA</p>
+             
+                </div>
+          
+                <div class="footer-center">
+                  <div>
+                    <i class="fa fa-map-marker"></i>
+                      <p><span>Office Tower A Lantai 9, Mega Kemayoran</span><span>
+                      Jl. Angkasa Kav. B-6 Kota Baru Bandar Kemayoran</span><span>
+                      Jakarta Pusat - 10160</span></p>
+                  </div>
+          
+                  <div>
+                    <i class="fa fa-phone"></i>
+                    <p>(021) 26055663</p>
+                  </div>
+                  <div>
+                    <i class="fa fa-envelope"></i>
+                    <p><a href="#">indopara@gmail.com</a></p>
+                  </div>
+                </div>
+                <div class="footer-right">
+                  <p class="footer-company-about">
+                    <span>About the company</span>
+                    PT. INDOPARA SISTA SEMESTA adalah perusahaan perdagangan barang dan jasa untuk instansi militer, maupun turnkey solution..</p>
+                  <div class="footer-icons">
+                    <a href="#"><i class="fa fa-facebook"></i></a>
+                    <a href="#"><i class="fa fa-twitter"></i></a>
+                    <a href="#"><i class="fa fa-instagram"></i></a>
+                    <a href="#"><i class="fa fa-linkedin"></i></a>
+                    <a href="#"><i class="fa fa-youtube"></i></a>
+                  </div>
+                </div>
+              </footer>
+
+        {{-- <footer class="py-5 bg-black" id="footer">
             <div class="container">
               <div class="row mb-5">
                 <div class="col-md-3">
@@ -156,36 +197,22 @@
                     <div class="col-lg-4">
                       <h3 class="footer-title"></h3>
                       <ul class="list-unstyled">
-                        {{-- <li><a href="#"></a></li>
-                        <li><a href="#"></a></li>
-                        <li><a href="#"></a></li> --}}
                       </ul>
                     </div>
                     <div class="col-lg-4">
                       <h3 class="footer-title"></h3>
                       <ul class="list-unstyled">
-                        {{-- <li><a href="#">Social Marketing</a></li>
-                        <li><a href="#">Web Design</a></li>
-                        <li><a href="#">Web Development</a></li> --}}
                       </ul>
                     </div>
                     <div class="col-lg-4">
                       <h3 class="footer-title"></h3>
                       <ul class="list-unstyled">
-                        {{-- <li><a href="#">Illustration</a></li>
-                        <li><a href="#">Video Editing</a></li>
-                        <li><a href="#">Copywriting</a></li> --}}
                       </ul>
                     </div>
                   </div>
                 </div>
                 <div class="col-md-3">
                   <h3 class="footer-title">Kontak Kami</h3>
-                  {{-- <a href="" class="social-circle m-2"><span class="icon-twitter"></span></a>
-                  <a href="" class="social-circle m-2"><span class="icon-facebook"></span></a>
-                  <a href="" class="social-circle m-2"><span class="icon-instagram"></span></a> --}}
-                  <!-- <a href="#" class="social-circle m-2"><span class="icon-dribbble"></span></a>
-                  <a href="#" class="social-circle m-2"><span class="icon-linkedin"></span></a> -->
                 </div>
               </div>
       
@@ -195,10 +222,8 @@
                 </div>
               </div>
             </div>
-          </footer>
-        {{-- <footer class="py-5 bg-black">
-            <div class="container px-5"><p class="m-0 text-center text-white small">Copyright &copy; Your Website 2021</p></div>
-        </footer> --}}
+          </footer> --}}
+        
 
 
         <!-- Bootstrap core JS-->
