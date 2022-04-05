@@ -298,8 +298,9 @@
                         <!-- <input type="submit" value="submit" class="u-form-control"> -->
                       <!-- </div> -->
                       <div class="u-align-right u-form-group u-form-">
-                      <a href="mailto:riskiwebsite78@gmail.com?subject=Subject atau judul&body=Pesanan anda"> Pesan lewat Email</a>
-                      </div>
+                      
+                      <a href="mailto:riskiwebsite78@gmail.com?subject=Ini%20adalah%20judul%20email%20default&body=Pesan%20ini%20akan%20secara%20otomatis%20muncul%20lho%21">Pesan Lewat Email </a>  
+                    </div>
                     </form>
                   </div>
                 </div>
