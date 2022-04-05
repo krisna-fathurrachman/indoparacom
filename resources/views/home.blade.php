@@ -105,7 +105,7 @@
                 <div class="u-container-layout u-container-layout-3">
                   <div class="u-container-style u-custom-color-1 u-group u-preserve-proportions u-shape-rectangle u-group-2">
                     <div class="u-container-layout u-valign-middle u-container-layout-4">
-                      <a href="/tentangkami" class="u-btn u-button-style u-none u-text-hover-palette-2-base u-text-palette-1-base u-btn-2">
+                      <a href="/about" class="u-btn u-button-style u-none u-text-hover-palette-2-base u-text-palette-1-base u-btn-2">
                         <span class="u-text-black">Read More&nbsp;</span><span class="u-file-icon u-icon"><img src="images/271228.png" alt=""></span>
                       </a>
                     </div>
