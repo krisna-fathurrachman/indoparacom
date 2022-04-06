@@ -76,6 +76,10 @@ Route::get('about', function () {
     return view('about');
 });
 
+Route::get('vehiclestest', function () {
+    return view('vehiclestest');
+});
+
 // test email
 // Route::get('/send-mail', function(){
 //     $details =[
