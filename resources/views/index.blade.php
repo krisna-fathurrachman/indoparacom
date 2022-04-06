@@ -184,7 +184,7 @@
       <div class="row">
         <div class="col-sm-12">
           <div class="container-fluid px-3 px-sm-5 my-5 text-center">
-            <h2>Our Amazing Team </h2>
+            <h2>OUR AMAZING TEAM </h2>
           </div>
           <div class="u-border-3 u-border-custom-color-1 u-line u-line-horizontal u-line-1"></div>
           <div id="customers-testimonials" class="owl-carousel">
