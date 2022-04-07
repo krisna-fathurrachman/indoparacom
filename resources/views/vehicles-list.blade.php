@@ -6,7 +6,7 @@
     <meta name="keywords" content="Tank Arisga​tor, Maintenance&nbsp;Truck, Vehicle&nbsp;Personel">
     <meta name="description" content="">
     <meta name="page_type" content="np-template-header-footer-from-plugin">
-    <title>Page 1</title>
+    <title>Vehicles List</title>
     <link rel="stylesheet" href="css/nicepage3.css" media="screen">
 <link rel="stylesheet" href="css/vehiclestest.css" media="screen">
     <script class="u-script" type="text/javascript" src="js/jquery-1.9.1.min.js" defer=""></script>

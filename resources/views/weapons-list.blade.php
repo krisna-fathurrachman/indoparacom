@@ -3,20 +3,19 @@
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
-    <meta name="keywords" content="Tank Arisgator, Radio Repeater, Vehicle Personnel, Maintenance Truck">
+    <meta name="keywords" content="WEAPON LIST">
     <meta name="description" content="">
     <meta name="page_type" content="np-template-header-footer-from-plugin">
-    <title>Weapons-list</title>
-    <link rel="stylesheet" href="css/nicepage1.css" media="screen">
+    <title>Weapons List</title>
+    <link rel="stylesheet" href="css/nicepage3.css" media="screen">
 <link rel="stylesheet" href="css/Weapons-list.css" media="screen">
-    <script class="u-script" type="text/javascript" src="js/jquery-1.9.1.min.js" defer=""></script>
-    <script class="u-script" type="text/javascript" src="js/nicepage.js" defer=""></script>
-    <meta name="generator" content="Nicepage 4.7.8, nicepage.com">
+    <script class="u-script" type="text/javascript" src="jquery-1.9.1.min.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
+    <meta name="generator" content="Nicepage 4.8.2, nicepage.com">
     <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
     <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
     <link rel="stylesheet" href="css/footer.css">
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
-
     
     
     
@@ -26,68 +25,84 @@
     <script type="application/ld+json">{
     "@context": "http://schema.org",
     "@type": "Organization",
-    "name": ""
+    "name": "",
+    "logo": "images/default-logo.png"
 }</script>
     <meta name="theme-color" content="#478ac9">
-    <meta property="og:title" content="Weapons-list">
+    <meta property="og:title" content="Page 3">
     <meta property="og:type" content="website">
   </head>
-  <body class="u-body u-xl-mode"><header class="u-black u-clearfix u-header u-header" id="sec-345c"><div class="u-clearfix u-sheet u-valign-middle-xl u-sheet-1"><span class="u-file-icon u-icon u-text-custom-color-1 u-icon-1"><img src="images/1.png" alt=""></span>
-        <p class="u-custom-font u-text u-text-custom-color-1 u-text-default-lg u-text-default-md u-text-default-sm u-text-default-xs u-text-1">
-          <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-custom-font u-hover-none u-none u-text-custom-color-1 u-btn-1" href="/index" data-page-id="1655921">Home </a>
-        </p>
-      </div></header>
-    <section class="u-black u-clearfix u-section-1" id="sec-5c27">
-      <div class="u-clearfix u-sheet u-valign-bottom-lg u-valign-bottom-md u-valign-bottom-sm u-valign-bottom-xs u-valign-middle-xl u-sheet-1">
-        <h3 class="u-text u-text-custom-color-1 u-text-default-lg u-text-default-md u-text-default-sm u-text-default-xs u-text-1">Weapons List</h3>
-        <div class="u-border-3 u-border-custom-color-1 u-line u-line-horizontal u-line-1"></div>
-        <div class="u-clearfix u-expanded-width u-gutter-30 u-layout-wrap u-layout-wrap-1">
-          <div class="u-layout">
-            <div class="u-layout-row">
-              <div class="u-container-style u-layout-cell u-left-cell u-size-33 u-layout-cell-1">
-                <div class="u-container-layout">
-                  <div class="u-align-left u-custom-color-1 u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-shape u-shape-1"></div>
-                  <img class="u-align-left u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-image u-image-contain u-image-1" data-image-width="752" data-image-height="423" src="images/alakran.jpg">
-                </div>
-              </div>
-              <div class="u-align-left u-container-style u-layout-cell u-right-cell u-size-27 u-layout-cell-2">
-                <div class="u-container-layout u-valign-middle-xl u-container-layout-2">
-                  <h2 class="u-text u-text-white u-text-2">Alacran Mortar Carrier V6</h2>
-                  <p class="u-text u-text-white u-text-3"> Alakran,
-sistem mortir yang dikembangkan oleh Venture Defense, adalah sistem pembawa
-mortir paling ringan di dunia, memberikan kemampuan mortir 120 mm untuk unit
-mobilitas tinggi.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <section class="u-black u-clearfix u-section-2" id="sec-ff71">
-      <div class="u-clearfix u-sheet u-sheet-1">
-        <div class="u-align-left u-border-6 u-border-custom-color-1 u-right-0 u-shape u-shape-1"></div>
-        <div class="u-align-left u-custom-color-1 u-shape u-shape-2"></div>
-        <div class="u-align-left u-container-style u-group u-group-1">
-          <div class="u-container-layout u-container-layout-1">
-            <h2 class="u-text u-text-white u-text-1">Mortar Bombs 120mm</h2>
-            <a href="#sec-491a" class="u-btn u-button-style u-dialog-link u-none u-text-custom-color-1 u-text-hover-palette-2-base u-btn-1">Read More&nbsp;<span class="u-icon u-text-custom-color-1"><svg class="u-svg-content" viewBox="0 -32 426.66667 426" style="width: 1em; height: 1em;"><path d="m213.332031 181.667969c0 4.265625-1.277343 8.53125-3.625 11.730469l-106.667969 160c-3.839843 5.761718-10.238281 9.601562-17.707031 9.601562h-64c-11.730469 0-21.332031-9.601562-21.332031-21.332031 0-4.269531 1.28125-8.535157 3.625-11.734375l98.773438-148.265625-98.773438-148.269531c-2.34375-3.199219-3.625-7.464844-3.625-11.730469 0-11.734375 9.601562-21.335938 21.332031-21.335938h64c7.46875 0 13.867188 3.839844 17.707031 9.601563l106.667969 160c2.347657 3.199218 3.625 7.464844 3.625 11.734375zm0 0"></path><path d="m426.667969 181.667969c0 4.265625-1.28125 8.53125-3.628907 11.730469l-106.664062 160c-3.839844 5.761718-10.242188 9.601562-17.707031 9.601562h-64c-11.734375 0-21.335938-9.601562-21.335938-21.332031 0-4.269531 1.28125-8.535157 3.628907-11.734375l98.773437-148.265625-98.773437-148.269531c-2.347657-3.199219-3.628907-7.464844-3.628907-11.730469 0-11.734375 9.601563-21.335938 21.335938-21.335938h64c7.464843 0 13.867187 3.839844 17.707031 9.601563l106.664062 160c2.347657 3.199218 3.628907 7.464844 3.628907 11.734375zm0 0"></path></svg><img></span>
+  <body class="u-body u-xl-mode"><header class="u-clearfix u-header u-header" id="sec-b812"><div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+        <a href="https://nicepage.com" class="u-image u-logo u-image-1">
+          <img src="images/default-logo.png" class="u-logo-image u-logo-image-1">
+        </a>
+        <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1">
+          <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px;">
+            <a class="u-button-style u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-top-bottom-menu-spacing u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="#">
+              <svg class="u-svg-link" viewBox="0 0 24 24"><use xlink:href="#menu-hamburger"></use></svg>
+              <svg class="u-svg-content" version="1.1" id="menu-hamburger" viewBox="0 0 16 16" x="0px" y="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg"><g><rect y="1" width="16" height="2"></rect><rect y="7" width="16" height="2"></rect><rect y="13" width="16" height="2"></rect>
+</g></svg>
             </a>
           </div>
-        </div>
-        <div class="u-clearfix u-gutter-10 u-layout-wrap u-layout-wrap-1">
-          <div class="u-gutter-0 u-layout">
-            <div class="u-layout-row">
-              <div class="u-size-60">
-                <div class="u-layout-col">
-                  <div class="u-align-left u-container-style u-image u-layout-cell u-left-cell u-size-60 u-image-1" data-image-width="764" data-image-height="1080" >
-                    <div class="u-container-layout u-container-layout-2" src=""></div>
-                  </div>
-                </div>
+          <div class="u-nav-container">
+            <ul class="u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="About.html" style="padding: 10px 20px;">About</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="Page-1.html" style="padding: 10px 20px;">Page 1</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="Page-2.html" style="padding: 10px 20px;">Page 2</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="Page-3.html" style="padding: 10px 20px;">Page 3</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="Page-4.html" style="padding: 10px 20px;">Page 4</a>
+</li></ul>
+          </div>
+          <div class="u-nav-container-collapse">
+            <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
+              <div class="u-inner-container-layout u-sidenav-overflow">
+                <div class="u-menu-close"></div>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="About.html">About</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Page-1.html">Page 1</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Page-2.html">Page 2</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Page-3.html">Page 3</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Page-4.html">Page 4</a>
+</li></ul>
               </div>
             </div>
+            <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
           </div>
-        </div>
+        </nav>
+      </div></header>
+    <section class="u-black u-clearfix u-section-1" id="sec-20eb">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <h2 class="u-text u-text-custom-color-1 u-text-default u-text-1">WEAPON LIST</h2>
+        <div class="u-border-3 u-border-custom-color-1 u-line u-line-horizontal u-line-1"></div>
+        <img class="u-image u-image-default u-image-1" src="images/alakrannew-removebg-preview.png" alt="" data-image-width="594" data-image-height="420" data-animation-name="flipIn" data-animation-duration="1000" data-animation-direction="X">
+        <h2 class="u-text u-text-default u-text-2" data-animation-name="lightSpeedIn" data-animation-duration="1000" data-animation-direction="">Alakran Mortar&nbsp;<br>Carrier V6
+        </h2>
+      </div>
+    </section>
+    <section class="u-clearfix u-custom-color-1 u-section-2" id="sec-ff24">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <img class="u-image u-image-default u-image-1" src="images/mortarbomb1-removebg-preview.png" alt="" data-image-width="489" data-image-height="503" data-animation-name="jackInTheBox" data-animation-duration="1000" data-animation-direction="">
+        <h2 class="u-text u-text-black u-text-default u-text-1" data-animation-name="flipIn" data-animation-duration="1000" data-animation-direction="X">Mortar 120mm<br>NT120 WP
+        </h2>
+      </div>
+    </section>
+    <section class="u-black u-clearfix u-section-3" id="carousel_94fb">
+      <div class="u-clearfix u-sheet u-valign-middle-lg u-valign-middle-md u-valign-middle-sm u-sheet-1">
+        <img class="u-image u-image-default u-image-1" src="images/mortarbomb2-removebg-preview.png" alt="" data-image-width="459" data-image-height="507" data-animation-name="jackInTheBox" data-animation-duration="1000" data-animation-direction="">
+        <h2 class="u-text u-text-default u-text-1" data-animation-name="flipIn" data-animation-duration="1000" data-animation-direction="X">Mortar 120mm<br>NT120 HE
+        </h2>
+      </div>
+    </section>
+    <section class="u-clearfix u-custom-color-1 u-section-4" id="carousel_d7ff">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <img class="u-image u-image-default u-image-1" src="images/mortarbomb3-removebg-preview.png" alt="" data-image-width="480" data-image-height="452" data-animation-name="jackInTheBox" data-animation-duration="1000" data-animation-direction="">
+        <h2 class="u-text u-text-black u-text-default u-text-1" data-animation-name="flipIn" data-animation-duration="1000" data-animation-direction="X">Mortar 120mm<br>NT120 TP-F
+        </h2>
+      </div>
+    </section>
+    <section class="u-black u-clearfix u-section-5" id="carousel_3e9b">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <img class="u-image u-image-default u-image-1" src="images/mortarbomb4-removebg-preview.png" alt="" data-image-width="469" data-image-height="451" data-animation-name="jackInTheBox" data-animation-duration="1000" data-animation-direction="">
+        <h2 class="u-text u-text-default u-text-1" data-animation-name="flipIn" data-animation-duration="1000" data-animation-direction="X">Mortar 120mm<br>NT120 TP
+        </h2>
       </div>
     </section>
     
