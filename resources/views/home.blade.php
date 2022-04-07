@@ -75,7 +75,7 @@
       </div></header>
     <section class="u-align-left u-clearfix u-image u-shading u-section-1"  data-image-width="1920" data-image-height="1013" id="sec-80dc">
       <div class="u-clearfix u-sheet u-sheet-1">
-        <h1 class="u-text u-text-custom-color-1 u-text-default u-title u-text-1"><strong> PT. INDOPARA SISTA SE​MESTA</strong></h1>
+        <h1 class="u-text u-text-custom-color-1 u-text-default u-title u-text-1">PT. Indopa​ra sista semesta</h1>
         <div class="u-border-3 u-border-custom-color-1 u-line u-line-horizontal u-line-1"></div>
         <p class="u-large-text u-text u-text-variant u-text-2">MILITARY EQUIPMENT</p>
         <a href="#about-section" class="u-btn u-button-style u-none u-text-custom-color-1 u-text-hover-palette-2-base u-btn-1">Read More<br>&nbsp;<span class="u-file-icon u-icon u-text-custom-color-1"><img src="images/2.png" alt=""></span>
@@ -95,7 +95,7 @@
             <div class="u-layout-row">
               <div class="u-align-justify u-container-style u-layout-cell u-size-39 u-layout-cell-1">
                 <div class="u-container-layout u-container-layout-2">
-                  <p class="u-text u-text-default u-text-2"> PT. INDOPARA SISTA SEMESTA adalah perusahaan perdagangan barang dan jasa untuk instansi militer, maupun turnkey solution.<br>Didirikan pada tanggal 28 Desember 2021, yang Aktanya disahkan di Jakarta oleh Notaris Nurlisa Uke Desy, SH., M.Kn dengan Akta Nomor 551. PT. INDOPARA SISTA SEMESTA bergerak di bidang Perdagangan barang dan jasa peralatan TNI, Alat telekomunikasi/Elektronik, Alat Teknis/Mekanikal/Elektrikal/Mesin dan suku cadangnya.<br>Selama kurun waktu berjalannya perusahaan ini, lebih banyak fokus pada bidang peralatan, solusi Telekomunikasi dan alat militer.
+                  <p class="u-text u-text-default u-text-2"> PT. INDOPARA SISTA SEMESTA adalah perusahaan perdagangan barang dan jasa untuk instansi militer, maupun turnkey solution.<br>PT. INDOPARA SISTA SEMESTA bergerak di bidang Perdagangan barang dan jasa peralatan TNI, Alat telekomunikasi/Elektronik, Alat Teknis/Mekanikal/Elektrikal/Mesin dan suku cadangnya.<br>Selama kurun waktu berjalannya perusahaan ini, lebih banyak fokus pada bidang peralatan, solusi Telekomunikasi dan alat militer.
                   </p>
                   <a href="#product" class="u-btn u-button-style u-none u-text-custom-color-1 u-text-hover-palette-2-base u-btn-1">our products&nbsp;<span class="u-file-icon u-icon u-text-custom-color-1"><img src="images/41.png" alt=""></span>
                   </a>
@@ -130,7 +130,7 @@
         <div class="gallery-container w-2 h-2">
             <div class="gallery-item">
                 <div class="image">
-                   <a href="/vehicles-list">
+                   <a href="/vehiclestest">
                     <img src="new/img/producttank.jpg" alt="Vehicle">
                 </div>
                  <div class="text"> Vehicles 
