@@ -3,24 +3,19 @@
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
-    <meta name="keywords" content="Tank Arisgator, Radio Repeater, Vehicle Personnel, Maintenance Truck">
+    <meta name="keywords" content="Tank Arisga​tor, Maintenance&nbsp;Truck, Vehicle&nbsp;Personel">
     <meta name="description" content="">
     <meta name="page_type" content="np-template-header-footer-from-plugin">
-    <title>Vehicles-list</title>
-    <link rel="stylesheet" href="css/nicepage1.css" media="screen">
-<link rel="stylesheet" href="css/Vehicles-list.css" media="screen">
+    <title>Page 1</title>
+    <link rel="stylesheet" href="css/nicepage3.css" media="screen">
+<link rel="stylesheet" href="css/vehiclestest.css" media="screen">
     <script class="u-script" type="text/javascript" src="js/jquery-1.9.1.min.js" defer=""></script>
     <script class="u-script" type="text/javascript" src="js/nicepage.js" defer=""></script>
-    <meta name="generator" content="Nicepage 4.7.8, nicepage.com">
+    <meta name="generator" content="Nicepage 4.8.2, nicepage.com">
     <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
     <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
     <link rel="stylesheet" href="css/footer.css">
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
-
-    
-    
-    
-    
     
     
     
@@ -29,82 +24,67 @@
     "@context": "http://schema.org",
     "@type": "Organization",
     "name": "",
-    "url": "/"
+    "logo": "images/default-logo.png"
 }</script>
     <meta name="theme-color" content="#478ac9">
-    <meta property="og:title" content="Vehicles-list">
+    <meta property="og:title" content="Page 1">
     <meta property="og:type" content="website">
-    <link rel="canonical" href="/">
   </head>
-  <body class="u-body u-xl-mode"><header class="u-black u-clearfix u-header u-header" id="sec-345c"><div class="u-clearfix u-sheet u-valign-middle-xl u-sheet-1"><span class="u-file-icon u-icon u-text-custom-color-1 u-icon-1"><img src="images/1.png" alt=""></span>
-        <p class="u-custom-font u-text u-text-custom-color-1 u-text-default-lg u-text-default-md u-text-default-sm u-text-default-xs u-text-1">
-          <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-custom-font u-hover-none u-none u-text-custom-color-1 u-btn-1" href="/index" data-page-id="1655921">Home </a>
-        </p>
+  <body class="u-body u-xl-mode"><header class="u-clearfix u-header u-header" id="sec-b812"><div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+        <a href="https://nicepage.com" class="u-image u-logo u-image-1">
+          <img src="images/default-logo.png" class="u-logo-image u-logo-image-1">
+        </a>
+        <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1">
+          <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px;">
+            <a class="u-button-style u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-top-bottom-menu-spacing u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="#">
+              <svg class="u-svg-link" viewBox="0 0 24 24"><use xlink:href="#menu-hamburger"></use></svg>
+              <svg class="u-svg-content" version="1.1" id="menu-hamburger" viewBox="0 0 16 16" x="0px" y="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg"><g><rect y="1" width="16" height="2"></rect><rect y="7" width="16" height="2"></rect><rect y="13" width="16" height="2"></rect>
+</g></svg>
+            </a>
+          </div>
+          <div class="u-nav-container">
+            <ul class="u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="About.html" style="padding: 10px 20px;">About</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="Page-1.html" style="padding: 10px 20px;">Page 1</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="Page-2.html" style="padding: 10px 20px;">Page 2</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="Page-3.html" style="padding: 10px 20px;">Page 3</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="Page-4.html" style="padding: 10px 20px;">Page 4</a>
+</li></ul>
+          </div>
+          <div class="u-nav-container-collapse">
+            <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
+              <div class="u-inner-container-layout u-sidenav-overflow">
+                <div class="u-menu-close"></div>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="About.html">About</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Page-1.html">Page 1</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Page-2.html">Page 2</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Page-3.html">Page 3</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Page-4.html">Page 4</a>
+</li></ul>
+              </div>
+            </div>
+            <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
+          </div>
+        </nav>
       </div></header>
-    <section class="u-black u-clearfix u-section-1" id="sec-aefa">
+    <section class="u-black u-clearfix u-section-1" id="sec-91b8">
       <div class="u-clearfix u-sheet u-sheet-1">
-        <h3 class="u-text u-text-custom-color-1 u-text-1">Vehicle List</h3>
-        <div class="u-clearfix u-expanded-width u-gutter-30 u-layout-wrap u-layout-wrap-1">
-          <div class="u-layout">
-            <div class="u-layout-row">
-              <div class="u-container-style u-layout-cell u-left-cell u-size-28 u-layout-cell-1">
-                <div class="u-container-layout">
-                  <div class="u-align-left u-custom-color-1 u-shape u-shape-1"></div>
-                  <img class="u-align-left u-expanded-width-lg u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-image u-image-contain u-image-1" data-image-width="500" data-image-height="203" src="images/tank-arisgator.jpg">
-                </div>
-              </div>
-              <div class="u-align-left u-container-style u-layout-cell u-right-cell u-size-32 u-layout-cell-2">
-                <div class="u-container-layout u-container-layout-2">
-                  <h2 class="u-text u-text-body-alt-color u-text-default u-text-2">Tank Arisgator</h2>
-                  <a href="#sec-d86f" class="u-border-none u-btn u-btn-rectangle u-button-style u-custom-color-1 u-dialog-link u-btn-1">SEE MORE</a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
+        <h2 class="u-text u-text-custom-color-1 u-text-default u-text-1">VEHICLE​S LIST</h2>
         <div class="u-border-3 u-border-custom-color-1 u-line u-line-horizontal u-line-1"></div>
+        <img class="u-image u-image-contain u-image-default u-image-1" src="images/tank-arisgator-removebg-preview.png" alt="" data-image-width="500" data-image-height="203" data-animation-name="lightSpeedIn" data-animation-duration="1000" data-animation-direction="">
+        <h2 class="u-text u-text-default u-text-2" data-animation-name="rubberBand" data-animation-duration="1000" data-animation-direction="">Tank Arisga​tor</h2>
       </div>
     </section>
-    {{-- <section class="u-black u-clearfix u-section-2" id="sec-61bb">
-      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
-        <div class="u-clearfix u-expanded-width u-gutter-0 u-layout-wrap u-layout-wrap-1">
-          <div class="u-layout">
-            <div class="u-layout-row">
-              <div class="u-align-left u-container-style u-layout-cell u-left-cell u-size-28 u-layout-cell-1">
-                <div class="u-container-layout u-valign-middle-xl u-container-layout-1">
-                  <h2 class="u-text u-text-body-alt-color u-text-1">Radio Repeater</h2>
-                </div>
-              </div>
-              <div class="u-container-style u-layout-cell u-right-cell u-size-32 u-layout-cell-2">
-                <div class="u-container-layout u-container-layout-2">
-                  <div class="u-align-left u-custom-color-1 u-shape u-shape-1"></div>
-                  <img src="images/radiorepeater.jpg" class="u-align-left u-image u-image-contain u-image-1" data-image-width="913" data-image-height="540">
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section> --}}
-    <section class="u-black u-clearfix u-section-3" id="sec-0d5e">
-      <div class="u-clearfix u-sheet u-valign-middle-xl u-sheet-1">
-        <img class="u-align-left u-image u-image-contain u-image-1" data-image-width="1020" data-image-height="581" src="images/vehiclepersonel.jpg">
-        <div class="u-container-style u-custom-color-1 u-group u-group-1">
-          <div class="u-container-layout u-valign-middle u-container-layout-1">
-            <h2 class="u-text u-text-default u-text-1">Vehicle Personel</h2>
-            <a href="#sec-ee88" class="u-border-2 u-border-black u-btn u-button-style u-dialog-link u-hover-black u-none u-text-hover-white u-text-white u-btn-1">SEE MORE</a>
-          </div>
-        </div>
-      </div>
-    </section>
-    <section class="u-black u-clearfix u-section-4" id="sec-2eb4">
+    <section class="u-clearfix u-custom-color-1 u-section-2" id="sec-88ec">
       <div class="u-clearfix u-sheet u-sheet-1">
-        <img class="u-align-left u-image u-image-contain u-image-1" data-image-width="900" data-image-height="593" src="images/maintenancetruck.jpg">
-        <div class="u-align-left u-black u-container-style u-group u-group-1">
-          <div class="u-container-layout u-container-layout-1">
-            <h2 class="u-text u-text-white u-text-1">Maintenance Truck</h2>
-          </div>
-        </div>
+        <img class="u-image u-image-default u-image-1" src="images/maintenancetruck-removebg-preview.png" alt="" data-image-width="615" data-image-height="405" data-animation-name="customAnimationIn" data-animation-duration="1000" data-animation-direction="X">
+        <h2 class="u-text u-text-body-color u-text-1" data-animation-name="flipIn" data-animation-duration="1000" data-animation-direction="X">Maintenance&nbsp;<br>Truck
+        </h2>
+      </div>
+    </section>
+    <section class="u-black u-clearfix u-section-3" id="sec-b78a">
+      <div class="u-clearfix u-sheet u-valign-middle-lg u-valign-middle-xl u-sheet-1">
+        <img class="u-image u-image-default u-image-1" src="images/vehiclepersonel-removebg-preview.png" alt="" data-image-width="662" data-image-height="377" data-animation-name="lightSpeedIn" data-animation-duration="1000" data-animation-direction="">
+        <h2 class="u-text u-text-default-lg u-text-default-md u-text-default-xl u-text-1" data-animation-name="rubberBand" data-animation-duration="1000" data-animation-direction="">Vehicle&nbsp;Personel</h2>
       </div>
     </section>
     
