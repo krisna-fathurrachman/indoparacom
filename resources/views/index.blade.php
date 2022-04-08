@@ -299,7 +299,7 @@
                       <!-- </div> -->
                       <div class="u-align-right u-form-group u-form-">
                       
-                      <a href="mailto:riskiwebsite78@gmail.com?subject=Ini%20adalah%20judul%20email%20default&body=Pesan%20ini%20akan%20secara%20otomatis%20muncul%20lho%21"><button type="button" style="background-color:#c17200;border-color:#c17200;color:#000"class="btn btn-secondary btn-lg btn-block">Pesan Lewat Email</button> </a>  
+                      <a href="mailto:Pt.indoparasistasemesta@gmail.com?subject=Isi%20judul%20email&body=Silahkan%20isi%20deskripsi%20pesan%20anda%21"><button type="button" style="background-color:#c17200;border-color:#c17200;color:#000"class="btn btn-secondary btn-lg btn-block">Pesan Lewat Email</button> </a>  
                       
                     </div>
                     </form>
