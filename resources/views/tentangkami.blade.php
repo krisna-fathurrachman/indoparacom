@@ -22,10 +22,10 @@
         <link href="css/styles.css" rel="stylesheet" />
         <link href="new/css/tentangkami.css" rel="stylesheet" />
         <link rel="stylesheet" href="css/footer.css" />
-        <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" />
-
-        
-        
+        {{-- <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" /> --}}
+        {{-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"> --}}
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
     </head>
     <body id="page-top">
         <!-- Navigation-->
@@ -148,13 +148,14 @@
 
         <footer class="footer-distributed">
             <div class="footer-left">
-              <img src="{{asset('new/img/newlogo.png')}}">
-              <p class="footer-company-name">© 2021 PT. INDOPARA SISTA SEMESTA</p>
-             
+              {{-- <img src="{{asset('new/img/newlogo.png')}}">
+              <p class="footer-company-name">© 2021 PT. INDOPARA SISTA SEMESTA</p> --}}
                 </div>
+
+            
           
                 <div class="footer-center">
-                  <div>
+                  {{-- <div>
                     <i class="fa fa-map-marker"></i>
                       <p><span>Office Tower A Lantai 9, Mega Kemayoran</span><span>
                       Jl. Angkasa Kav. B-6 Kota Baru Bandar Kemayoran</span><span>
@@ -168,18 +169,24 @@
                   <div>
                     <i class="fa fa-envelope"></i>
                     <p><a href="#">indopara@gmail.com</a></p>
-                  </div>
+                  </div> --}}
+                  <img src="{{asset('new/img/newlogo.png')}}">
+              <p class="footer-company-name">© 2021 PT. INDOPARA SISTA SEMESTA</p>
                 </div>
                 <div class="footer-right">
                   <p class="footer-company-about">
-                    <span>About the company</span>
-                    PT. INDOPARA SISTA SEMESTA adalah perusahaan perdagangan barang dan jasa untuk instansi militer, maupun turnkey solution..</p>
+                    <span>About the Company</span>
+                   PT. INDOPARA SISTA SEMESTA adalah 
+                   perusahaan perdagangan barang dan 
+                    jasa untuk instansi militer, maupun 
+                    turnkey solution.
+                  </p>
                   <div class="footer-icons">
-                    <a href="#"><i class="fa fa-facebook"></i></a>
-                    <a href="#"><i class="fa fa-twitter"></i></a>
-                    <a href="#"><i class="fa fa-instagram"></i></a>
-                    <a href="#"><i class="fa fa-linkedin"></i></a>
-                    <a href="#"><i class="fa fa-youtube"></i></a>
+                    <a href="#"><i class="fab fa-facebook"></i></a>
+                    <a href="#"><i class="fab fa-twitter"></i></a>
+                    <a href="#"><i class="fab fa-instagram"></i></a>
+                    <a href="#"><i class="fab fa-linkedin"></i></a>
+                    <a href="#"><i class="fab fa-youtube"></i></a>
                   </div>
                 </div>
               </footer>

@@ -22,6 +22,7 @@
     <link href="new/css/ourteam.css" rel="stylesheet" />
     <link href="new/css/produk2.css" rel="stylesheet" />
     <link href="css/footer.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
     
     <link rel="icon" type="image/x-icon" href="assets/favicon_new.ico" />
     
@@ -315,7 +316,7 @@
     
     {{-- <footer class="u-align-center u-clearfix u-footer u-grey-80 u-footer" id="sec-f729"><div class="u-clearfix u-sheet u-sheet-1"> --}}
         {{-- <p class="u-small-text u-text u-text-variant u-text-1">Sample text. Click to select the text box. Click again or double click to start editing the text.</p> --}}
-        <footer class="footer-distributed">
+        {{-- <footer class="footer-distributed">
         <div class="footer-left">
           <img src="{{asset('new/img/newlogo.png')}}">
           <p class="footer-company-name">© 2021 PT. INDOPARA SISTA SEMESTA</p>
@@ -351,7 +352,51 @@
                 <a href="#"><i class="fa fa-youtube"></i></a>
               </div>
             </div>
-          </footer>
+          </footer> --}}
+          <footer class="footer-distributed">
+            <div class="footer-left">
+              {{-- <img src="{{asset('new/img/newlogo.png')}}">
+              <p class="footer-company-name">© 2021 PT. INDOPARA SISTA SEMESTA</p> --}}
+                </div>
+
+            
+          
+                <div class="footer-center">
+                  {{-- <div>
+                    <i class="fa fa-map-marker"></i>
+                      <p><span>Office Tower A Lantai 9, Mega Kemayoran</span><span>
+                      Jl. Angkasa Kav. B-6 Kota Baru Bandar Kemayoran</span><span>
+                      Jakarta Pusat - 10160</span></p>
+                  </div>
+          
+                  <div>
+                    <i class="fa fa-phone"></i>
+                    <p>(021) 26055663</p>
+                  </div>
+                  <div>
+                    <i class="fa fa-envelope"></i>
+                    <p><a href="#">indopara@gmail.com</a></p>
+                  </div> --}}
+                  <img src="{{asset('new/img/newlogo.png')}}">
+              <p class="footer-company-name">© 2021 PT. INDOPARA SISTA SEMESTA</p>
+                </div>
+                <div class="footer-right">
+                  <p class="footer-company-about">
+                    <span>About the Company</span>
+                   PT. INDOPARA SISTA SEMESTA adalah 
+                   perusahaan perdagangan barang dan 
+                    jasa untuk instansi militer, maupun 
+                    turnkey solution.
+                  </p>
+                  <div class="footer-icons">
+                    <a href="#"><i class="fab fa-facebook"></i></a>
+                    <a href="#"><i class="fab fa-twitter"></i></a>
+                    <a href="#"><i class="fab fa-instagram"></i></a>
+                    <a href="#"><i class="fab fa-linkedin"></i></a>
+                    <a href="#"><i class="fab fa-youtube"></i></a>
+                  </div>
+                </div>
+              </footer>
     {{-- <section class="u-backlink u-clearfix u-grey-80">
       <a class="u-link" href="https://nicepage.com/website-templates" target="_blank">
         <span>Website Templates</span>
