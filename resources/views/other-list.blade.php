@@ -3,8 +3,9 @@
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
-    <meta name="keywords" content="Other List, Front Observer Manpack">
-    <meta name="description" content="">
+    <meta name="keywords" content="Indopara, Indopara Sista Semesta, PT. Indopara Sista Semesta, Produk Indopara, Other List, Front Observer Manpack">
+    <meta name="description" content="PT. Indopara Sista Semesta merupakan perusahaan yang bergerak di bidang perlatan militer indonesia">
+    <meta name="page_type" content="np-temp
     <meta name="page_type" content="np-template-header-footer-from-plugin">
     <title>Other List</title>
     <link rel="stylesheet" href="css/nicepage3.css" media="screen">

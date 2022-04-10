@@ -3,8 +3,8 @@
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
-    <meta name="keywords" content="PT. INDOPARA SISTA SE​MESTA">
-    <meta name="description" content="">
+    <meta name="keywords" content="PT. Indopara Sista Semesta, Indopara, Indopara Sista Semesta, Peralatan Militer, Militer Indonesia, Kendaraan Militer Indonesia, Kendaraan Militer">
+    <meta name="description" content="PT. Indopara Sista Semesta merupakan perusahaan yang bergerak di bidang perlatan militer indonesia">
     <meta name="page_type" content="np-template-header-footer-from-plugin">
     <title>PT. INDOPARA SISTA SEMESTA</title>
     <link rel="stylesheet" href="css/nicepage.css" media="screen">

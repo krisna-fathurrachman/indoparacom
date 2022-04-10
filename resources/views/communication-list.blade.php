@@ -3,8 +3,8 @@
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
-    <meta name="keywords" content="Tank Arisgator, Radio Repeater, Vehicle Personnel, Maintenance Truck">
-    <meta name="description" content="">
+    <meta name="keywords" content="Indopara Sista Semesta, Produk Indopara, DICOM RF2350, DICOM RF23, DICOM AR20">
+    <meta name="description" content="PT. Indopara Sista Semesta merupakan perusahaan yang bergerak di bidang perlatan militer indonesia">
     <meta name="page_type" content="np-template-header-footer-from-plugin">
     <title>Communications List</title>
     <link rel="stylesheet" href="css/nicepage1.css" media="screen">
