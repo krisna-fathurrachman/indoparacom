@@ -131,7 +131,7 @@
         <div class="gallery-container w-2 h-2">
             <div class="gallery-item">
                 <div class="image">
-                   <a href="/vehiclestest">
+                   <a href="/vehicles-list">
                     <img src="new/img/producttank.jpg" alt="Vehicle">
                 </div>
                  <div class="text"> Vehicles 

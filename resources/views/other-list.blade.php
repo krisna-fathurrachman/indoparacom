@@ -31,7 +31,7 @@
     <meta property="og:type" content="website">
   </head>
   <body class="u-body u-xl-mode"><header class="u-black u-clearfix u-header u-header" id="sec-b812"><div class="u-clearfix u-sheet u-sheet-1">
-        <a href="/home" class="u-image u-logo u-image-1" data-image-width="1024" data-image-height="1024">
+        <a href="/index" class="u-image u-logo u-image-1" data-image-width="1024" data-image-height="1024">
           <img src="images/newlogo.png" class="u-logo-image u-logo-image-1">
         </a>
         <nav class="u-dropdown-icon u-menu u-menu-dropdown u-offcanvas u-menu-1">
@@ -44,7 +44,7 @@
           </div>
           <div class="u-custom-menu u-nav-container">
             <ul class="u-custom-font u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1" href="/index">Home</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1" href="#contact-us">Contact</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1" href="/index#contact-us">Contact</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1" href="#product">Products List</a><div class="u-nav-popup"><ul class="u-custom-font u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="/vehicles-list">Vehicles List</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="/weapons-list">Weapons List</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="/communication-list">Communications List</a>
