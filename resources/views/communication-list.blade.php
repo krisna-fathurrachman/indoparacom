@@ -6,7 +6,7 @@
     <meta name="keywords" content="Tank Arisgator, Radio Repeater, Vehicle Personnel, Maintenance Truck">
     <meta name="description" content="">
     <meta name="page_type" content="np-template-header-footer-from-plugin">
-    <title>communication-list</title>
+    <title>Communications List</title>
     <link rel="stylesheet" href="css/nicepage1.css" media="screen">
     <link rel="stylesheet" href="css/nicepage3.css" media="screen">
 <link rel="stylesheet" href="css/communication-list.css" media="screen">
@@ -26,102 +26,77 @@
     <script type="application/ld+json">{
     "@context": "http://schema.org",
     "@type": "Organization",
-    "name": ""
+    "name": "WebSite1705098",
+    "logo": "images/newlogo.png"
 }</script>
     <meta name="theme-color" content="#478ac9">
-    <meta property="og:title" content="communication-list">
+    <meta property="og:title" content="Products List">
+    <meta property="og:description" content="PT. Indopara Sista Semesta merupakan perusahaan yang bergerak di bidang perlatan militer indonesia">
     <meta property="og:type" content="website">
   </head>
-  <body class="u-body u-xl-mode">
-  <header class="u-black u-clearfix u-header u-sticky u-sticky-4b43 u-header" id="sec-345c">
-      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
-        <a href="/index" class="u-image u-logo u-image-1">
-          <img src="new/img/newlogo.png" class="u-logo-image u-logo-image-1">
+  <body class="u-body u-xl-mode"><header class="u-black u-clearfix u-header u-header" id="sec-b812"><div class="u-clearfix u-sheet u-sheet-1">
+        <a href="/home" class="u-image u-logo u-image-1" data-image-width="1024" data-image-height="1024">
+          <img src="images/newlogo.png" class="u-logo-image u-logo-image-1">
         </a>
-        <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1">
-          <div class="menu-collapse u-custom-font" style="font-size: 1rem; letter-spacing: 0px; font-family: Poppins; font-weight: 700;">
-            <a class="u-button-style u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-text-active-color u-custom-text-hover-color u-custom-top-bottom-menu-spacing u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="#">
-              <svg class="u-svg-link" viewBox="0 0 24 24"><use xlink:href="#menu-hamburger"></use></svg>
-              <svg class="u-svg-content" version="1.1" id="menu-hamburger" viewBox="0 0 16 16" x="0px" y="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg"><g><rect y="1" width="16" height="2"></rect><rect y="7" width="16" height="2"></rect><rect y="13" width="16" height="2"></rect>
+        <nav class="u-dropdown-icon u-menu u-menu-dropdown u-offcanvas u-menu-1">
+          <div class="menu-collapse u-custom-font" style="font-family: Poppins; font-weight: 600; font-size: 1.125rem;">
+            <a class="u-button-style u-custom-text-active-color u-nav-link" href="#">
+              <svg class="u-svg-link" viewBox="0 0 24 24"><use xlink:href="#svg-a6a8"></use></svg>
+              <svg class="u-svg-content" version="1.1" id="svg-a6a8" viewBox="0 0 16 16" x="0px" y="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg"><g><rect y="1" width="16" height="2"></rect><rect y="7" width="16" height="2"></rect><rect y="13" width="16" height="2"></rect>
 </g></svg>
             </a>
           </div>
-          <div class="u-nav-container">
-            <ul class="u-custom-font u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1 u-text-hover-palette-3-dark-1" href="/index" style="padding: 10px 20px;">Home</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1 u-text-hover-palette-3-dark-1" href="/index#product" style="padding: 10px 20px;">Product</a>
+          <div class="u-custom-menu u-nav-container">
+            <ul class="u-custom-font u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1" href="/index">Home</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1" href="#contact-us">Contact</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1" href="#product">Products List</a><div class="u-nav-popup"><ul class="u-custom-font u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1 u-white" href="/vehicles-list">Vehicles List</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="/weapons-list">Weapons List</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="/communication-list">Communications List</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="/other-list">Other List</a>
+</li></ul>
+</div>
 </li></ul>
           </div>
-          <div class="u-nav-container-collapse">
+          <div class="u-custom-menu u-nav-container-collapse">
             <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
               <div class="u-inner-container-layout u-sidenav-overflow">
                 <div class="u-menu-close"></div>
-                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="#">Home</a>
-                </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="#product">Produk</a>
-             </li></ul>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-3"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="/index">Home</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="#contact-us">Contact</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="#product">Products List</a><div class="u-nav-popup"><ul class="u-custom-font u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-4"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="/vehicles-list">Vehicles List</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="/weapons-list">Weapons List</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="/communication-list">Communications List</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="/other-list">Other List</a>
+</li></ul>
+</div>
+</li></ul>
               </div>
             </div>
             <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
           </div>
         </nav>
-      </div>
-    </header> 
-  
-  
-  <section class="u-black u-clearfix u-section-1" id="sec-609d">
-      <div class="u-clearfix u-sheet u-sheet-1">
-        <h3 class="u-text u-text-custom-color-1 u-text-default-lg u-text-default-md u-text-default-sm u-text-default-xs u-text-1">Communications List</h3>
+      </div></header>
+    <section class="u-black u-clearfix u-section-1" id="sec-3c75">
+      <div class="u-clearfix u-sheet u-valign-middle-lg u-valign-middle-md u-valign-middle-xl u-valign-middle-xs u-sheet-1">
+        <h2 class="u-text u-text-custom-color-1 u-text-default u-text-1">Communications List</h2>
         <div class="u-border-3 u-border-custom-color-1 u-line u-line-horizontal u-line-1"></div>
-        <div class="u-clearfix u-expanded-width u-gutter-30 u-layout-wrap u-layout-wrap-1">
-          <div class="u-layout">
-            <div class="u-layout-row">
-              <div class="u-size-20 u-size-30-md">
-                <div class="u-layout-col">
-                  <div class="u-align-left u-container-style u-layout-cell u-left-cell u-size-36 u-layout-cell-1">
-                    <div class="u-container-layout">
-                      <div class="u-align-left u-custom-color-1 u-shape u-shape-rectangle u-shape-1"></div>
-                      <img alt="" class="u-align-left u-image u-image-contain u-image-1" data-image-width="376" data-image-height="444" src="images/commu1.jpg">
-                    </div>
-                  </div>
-                  <div class="u-align-left u-container-style u-layout-cell u-left-cell u-size-24 u-layout-cell-2">
-                    <div class="u-container-layout u-valign-middle-xl u-container-layout-2">
-                      <h3 class="u-text u-text-white u-text-2">DICOM RF2350</h3>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="u-size-20 u-size-30-md">
-                <div class="u-layout-col">
-                  <div class="u-align-left u-container-style u-layout-cell u-size-24 u-layout-cell-3">
-                    <div class="u-container-layout u-valign-bottom-lg u-valign-bottom-md u-valign-bottom-sm u-valign-bottom-xs u-valign-middle-xl u-container-layout-3">
-                      <h3 class="u-text u-text-white u-text-3">DICOM RF23</h3>
-                    </div>
-                  </div>
-                  <div class="u-align-left u-container-style u-layout-cell u-size-36 u-layout-cell-4">
-                    <div class="u-container-layout">
-                      <div class="u-align-left u-custom-color-1 u-shape u-shape-2"></div>
-                      <img alt="" class="u-align-left u-image u-image-contain u-image-2" data-image-width="376" data-image-height="439" src="images/commu3.jpg">
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="u-size-20 u-size-60-md">
-                <div class="u-layout-col">
-                  <div class="u-align-left u-container-style u-hidden-sm u-hidden-xs u-layout-cell u-right-cell u-size-36 u-layout-cell-5">
-                    <div class="u-container-layout u-container-layout-5">
-                      <div class="u-align-left u-custom-color-1 u-shape u-shape-3"></div>
-                      <img alt="" class="u-align-left u-image u-image-contain u-image-3" data-image-width="375" data-image-height="451" src="images/commu5.jpg">
-                    </div>
-                  </div>
-                  <div class="u-align-left u-container-style u-layout-cell u-right-cell u-size-24 u-layout-cell-6">
-                    <div class="u-container-layout u-valign-middle-xl u-container-layout-6">
-                      <h3 class="u-text u-text-body-alt-color u-text-4">DICOM AR20</h3>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
+        <img class="u-image u-image-default u-image-1" src="images/commu1-removebg-preview.png" alt="" data-image-width="376" data-image-height="444" data-animation-name="flipIn" data-animation-duration="1000" data-animation-direction="X">
+        <h2 class="u-text u-text-default u-text-2" data-animation-name="bounceIn" data-animation-duration="1000" data-animation-direction="">DICOM RF2350<br>EPM Mobile T​ransceiver
+        </h2>
+      </div>
+    </section>
+    <section class="u-black u-clearfix u-section-2" id="carousel_c05e">
+      <div class="u-clearfix u-sheet u-valign-middle-lg u-valign-middle-md u-valign-middle-xs u-sheet-1">
+        <img class="u-image u-image-default u-image-1" src="images/commu3-removebg-preview.png" alt="" data-image-width="376" data-image-height="439" data-animation-name="flipIn" data-animation-duration="1000" data-animation-direction="X">
+        <h2 class="u-align-right u-text u-text-default u-text-1" data-animation-name="bounceIn" data-animation-duration="1000" data-animation-direction="">DICOM RF23<br>EPM Handheld Radio
+        </h2>
+      </div>
+    </section>
+    <section class="u-black u-clearfix u-section-3" id="carousel_3e4a">
+      <div class="u-clearfix u-sheet u-valign-middle-lg u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-sheet-1">
+        <img class="u-image u-image-default u-image-1" src="images/commu5-removebg-preview.png" alt="" data-image-width="375" data-image-height="451" data-animation-name="flipIn" data-animation-duration="1000" data-animation-direction="X">
+        <h2 class="u-text u-text-default u-text-1" data-animation-name="bounceIn" data-animation-duration="1000" data-animation-direction="">DICOM AR20<br>Automatic Rebroadcast<br>Station
+        </h2>
       </div>
     </section>
     
