@@ -74,9 +74,9 @@
           </div>
         </nav>
       </div></header>
-    <section class="u-align-left u-clearfix u-image u-shading u-section-1"  data-image-width="1920" data-image-height="1013" id="sec-80dc">
+      <section class="u-align-left u-clearfix u-image u-shading u-section-1"  data-image-width="1920" data-image-height="1013" id="sec-80dc">
       <div class="u-clearfix u-sheet u-sheet-1">
-        <h1 class="u-text u-text-custom-color-1 u-text-default u-title u-text-1"><strong> PT. INDOPARA SISTA SE​MESTA</strong></h1>
+        <h1 class="u-text u-text-custom-color-1 u-text-default u-title u-text-1"><strong>PT. Indopa​ra sista semesta</strong></h1>
         <div class="u-border-3 u-border-custom-color-1 u-line u-line-horizontal u-line-1"></div>
         <p class="u-large-text u-text u-text-variant u-text-2">MILITARY EQUIPMENT</p>
         <a href="#about-section" class="u-btn u-button-style u-none u-text-custom-color-1 u-text-hover-palette-2-base u-btn-1">Read More<br>&nbsp;<span class="u-file-icon u-icon u-text-custom-color-1"><img src="images/2.png" alt=""></span>
