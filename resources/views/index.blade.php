@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <html style="font-size: 16px;">
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -261,13 +261,13 @@
                   <div class="u-container-style u-custom-color-1 u-group u-preserve-proportions u-shape-rectangle u-group-2">
                     <div class="u-container-layout u-container-layout-3">
                       <h4 class="u-text u-text-black u-text-default u-text-2">CONTACT INFORMATION</h4>
-                      <a href="https://nicepage.best" class="u-active-none u-bottom-left-radius-0 u-bottom-right-radius-0 u-btn u-btn-rectangle u-button-style u-hover-none u-none u-radius-0 u-text-black u-top-left-radius-0 u-top-right-radius-0 u-btn-1"><span class="u-icon"><svg class="u-svg-content" viewBox="0 0 405.333 405.333" x="0px" y="0px" style="width: 1em; height: 1em;"><path d="M373.333,266.88c-25.003,0-49.493-3.904-72.704-11.563c-11.328-3.904-24.192-0.896-31.637,6.699l-46.016,34.752    c-52.8-28.181-86.592-61.952-114.389-114.368l33.813-44.928c8.512-8.512,11.563-20.971,7.915-32.64    C142.592,81.472,138.667,56.96,138.667,32c0-17.643-14.357-32-32-32H32C14.357,0,0,14.357,0,32    c0,205.845,167.488,373.333,373.333,373.333c17.643,0,32-14.357,32-32V298.88C405.333,281.237,390.976,266.88,373.333,266.88z"></path></svg><img></span>
+                      <a href="#contact-us" class="u-active-none u-bottom-left-radius-0 u-bottom-right-radius-0 u-btn u-btn-rectangle u-button-style u-hover-none u-none u-radius-0 u-text-black u-top-left-radius-0 u-top-right-radius-0 u-btn-1"><span class="u-icon"><svg class="u-svg-content" viewBox="0 0 405.333 405.333" x="0px" y="0px" style="width: 1em; height: 1em;"><path d="M373.333,266.88c-25.003,0-49.493-3.904-72.704-11.563c-11.328-3.904-24.192-0.896-31.637,6.699l-46.016,34.752    c-52.8-28.181-86.592-61.952-114.389-114.368l33.813-44.928c8.512-8.512,11.563-20.971,7.915-32.64    C142.592,81.472,138.667,56.96,138.667,32c0-17.643-14.357-32-32-32H32C14.357,0,0,14.357,0,32    c0,205.845,167.488,373.333,373.333,373.333c17.643,0,32-14.357,32-32V298.88C405.333,281.237,390.976,266.88,373.333,266.88z"></path></svg><img></span>
                         <span style="font-size: 1.125rem; font-weight: 700;"> &nbsp; &nbsp;(021) 26<span style="font-weight: 700;"></span>055663
                         </span>
                       </a>
-                      <a href="https://nicepage.best" class="u-active-none u-bottom-left-radius-0 u-bottom-right-radius-0 u-btn u-btn-rectangle u-button-style u-hover-none u-none u-radius-0 u-text-black u-top-left-radius-0 u-top-right-radius-0 u-btn-2"><span class="u-file-icon u-icon"><img src="images/725643.png" alt=""></span>
+                      <a href="#contact-us" class="u-active-none u-bottom-left-radius-0 u-bottom-right-radius-0 u-btn u-btn-rectangle u-button-style u-hover-none u-none u-radius-0 u-text-black u-top-left-radius-0 u-top-right-radius-0 u-btn-2"><span class="u-file-icon u-icon"><img src="images/725643.png" alt=""></span>
                         <span style="font-weight: 700;">
-                          <span style="font-size: 1.125rem; font-weight: 700;"> &nbsp; &nbsp;</span>indopara@gmail.com
+                          <span style="font-size: 1.125rem; font-weight: 700;"> &nbsp; &nbsp;</span>Pt.indoparasistasemesta@gmail.com
                         </span>
                       </a>
                       <p class="u-align-right u-text u-text-black u-text-3"><span class="u-file-icon u-icon"><img src="images/3179068.png" alt=""></span> &nbsp; &nbsp; Office Tower A Lantai 9,&nbsp; Mega Kemayoran.<br>Jl. Angkasa Kav. B-6<br>Kota Baru Bandar Kemayoran, Jakarta Pusat 10160
