@@ -45,6 +45,7 @@
           <div class="u-nav-container">
             <ul class="u-custom-font u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1 u-text-hover-palette-3-dark-1" href="/index" style="padding: 10px 20px;">Home</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1 u-text-hover-palette-3-dark-1" href="/index#product" style="padding: 10px 20px;">Product</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1 u-text-hover-palette-3-dark-1" href="/index#contact-us" style="padding: 10px 20px;">Contact</a>
 </li></ul>
           </div>
           <div class="u-nav-container-collapse">
@@ -53,6 +54,7 @@
                 <div class="u-menu-close"></div>
                 <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="#">Home</a>
                 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="#product">Produk</a>
+                </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="#contact-us">Contact</a>
              </li></ul>
               </div>
             </div>
