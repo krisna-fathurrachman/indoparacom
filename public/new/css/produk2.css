@@ -154,6 +154,7 @@
     margin: 20px;
     padding: 0;
     text-align: center;
+    opacity: 0.90;
 }
 .container-produk{
     display: grid;
