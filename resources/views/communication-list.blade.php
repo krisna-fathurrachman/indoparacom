@@ -30,7 +30,7 @@
     "logo": "images/newlogo.png"
 }</script>
     <meta name="theme-color" content="#478ac9">
-    <meta property="og:title" content="Products List">
+    <meta property="og:title" content="Weapons List">
     <meta property="og:description" content="PT. Indopara Sista Semesta merupakan perusahaan yang bergerak di bidang perlatan militer indonesia">
     <meta property="og:type" content="website">
   </head>
@@ -49,9 +49,9 @@
           <div class="u-custom-menu u-nav-container">
             <ul class="u-custom-font u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1" href="/index">Home</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1" href="#contact-us">Contact</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1" href="#product">Products List</a><div class="u-nav-popup"><ul class="u-custom-font u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1 u-white" href="/vehicles-list">Vehicles List</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1" href="#product">Products List</a><div class="u-nav-popup"><ul class="u-custom-font u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="/vehicles-list">Vehicles List</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="/weapons-list">Weapons List</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="/communication-list">Communications List</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-custom-color-1 u-white" href="/communication-list">Communications List</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="/other-list">Other List</a>
 </li></ul>
 </div>
