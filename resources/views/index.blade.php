@@ -300,7 +300,7 @@
                       <!-- </div> -->
                       <div class="u-align-right u-form-group u-form-">
                       
-                      <a href="mailto:Pt.indoparasistasemesta@gmail.com?subject=Isi%20judul%20email&body=Silahkan%20isi%20deskripsi%20pesan%20anda%21"><button type="button" style="background-color:#c17200;border-color:#c17200;color:#000"class="btn btn-secondary btn-lg btn-block">Pesan Lewat Email</button> </a>  
+                      <a href="mailto:Pt.indoparasistasemesta@gmail.com?subject=Isi%20judul%20email&body=Silahkan%20isi%20deskripsi%20pesan%20anda%21"><button type="button" style="background-color:#c17200;border-color:#c17200;color:#000"class="btn btn-secondary btn-lg btn-block">Send Me an Email</button> </a>  
                       
                     </div>
                     </form>
