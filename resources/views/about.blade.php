@@ -41,7 +41,7 @@
 
     <header class="u-black u-clearfix u-header u-sticky u-sticky-4b43 u-header" id="sec-345c">
       <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
-        <a href="/home" class="u-image u-logo u-image-1">
+        <a href="/index" class="u-image u-logo u-image-1">
           <img src="new/img/newlogo.png" class="u-logo-image u-logo-image-1">
         </a>
         <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1">
