@@ -18439,8 +18439,9 @@
     pointer-events: none;
   }
   .u-repeater {
-    display: grid;
-    grid-template-columns: repeat(3, 33.33333333%);
+   
+    /* display: grid;
+    grid-template-columns: repeat(3, 33.33333333%); */
   }
   .u-repeater-item {
     display: flex;
@@ -36605,3 +36606,35 @@
    /*begin-variables base-font-size*/ 
    html { font-size: 16px; }
    /*end-variables base-font-size*/
+
+/* 
+   peta responsive */
+
+   /*CSS PETA RESPONSIVE */
+/* .peta-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:100%;
+}
+.peta-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+} */
+
+.google-maps {
+  position: relative;
+  padding-bottom: 75%; 
+  height: 0;
+  overflow: hidden;
+}
+.google-maps iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100% !important;
+  height: 100% !important;
+}

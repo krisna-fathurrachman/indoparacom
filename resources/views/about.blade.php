@@ -166,12 +166,12 @@
         <h2 class="u-text u-text-custom-color-1 u-text-default u-text-4">OUR LOCATIONS</h2>
         <div class="u-border-3 u-border-custom-color-1 u-line u-line-horizontal u-line-1"></div>
         <div class="u-expanded-width-xs u-list u-list-1">
-          <div class="u-repeater u-repeater-1">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d416.9598973660723!2d106.8500568000402!3d-6.155695289252593!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f5027c0bbad7%3A0x34ba7a736bf4600b!2sOffice%20tower%20A%20MGK%20Kemayoran!5e0!3m2!1sid!2sid!4v1649435313437!5m2!1sid!2sid" 
-            width="950px" height="500px">
+         
+            <div class="google-maps">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.7925801436368!2d106.85031191744382!3d-6.158528499999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f5311eab3867%3A0xfbeceb75ae1223af!2sCitra%20Towers!5e0!3m2!1sid!2sid!4v1649573405146!5m2!1sid!2sid" width="900" height="750" frameborder="0" style="border:0"></iframe>
            
             </iframe>
-            
+      
           </div>
         </div>
       </div>
