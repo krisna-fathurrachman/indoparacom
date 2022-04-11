@@ -40,8 +40,9 @@
     <header class="u-black u-clearfix u-header u-sticky u-sticky-4b43 u-header" id="sec-345c">
       <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
         <a href="/home" class="u-image u-logo u-image-1">
-          <img src="new/img/newlogo.png" class="u-logo-image u-logo-image-1">
+           <img src="new/img/newlogo.png " width="100" height="100" >
         </a>
+       
         <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1">
           <div class="menu-collapse u-custom-font" style="font-size: 1rem; letter-spacing: 0px; font-family: Poppins; font-weight: 700;">
             <a class="u-button-style u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-text-active-color u-custom-text-hover-color u-custom-top-bottom-menu-spacing u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="#">
@@ -267,7 +268,7 @@
                       </a>
                       <a href="#contact-us" class="u-active-none u-bottom-left-radius-0 u-bottom-right-radius-0 u-btn u-btn-rectangle u-button-style u-hover-none u-none u-radius-0 u-text-black u-top-left-radius-0 u-top-right-radius-0 u-btn-2"><span class="u-file-icon u-icon"><img src="images/725643.png" alt=""></span>
                         <span style="font-weight: 700;">
-                          <span style="font-size: 1.125rem; font-weight: 700;"> &nbsp; &nbsp;</span>Pt.indoparasistasemesta@gmail.com
+                          <span style="font-size: 1.125rem; font-weight: 700;"> &nbsp; &nbsp;</span>Pt.indoparasistasemesta<br>@gmail.com
                         </span>
                       </a>
                       <p class="u-align-right u-text u-text-black u-text-3"><span class="u-file-icon u-icon"><img src="images/3179068.png" alt=""></span> &nbsp; &nbsp; Office Tower A Lantai 9,&nbsp; Mega Kemayoran.<br>Jl. Angkasa Kav. B-6<br>Kota Baru Bandar Kemayoran, Jakarta Pusat 10160
@@ -279,10 +280,15 @@
               <div class="u-container-style u-layout-cell u-size-39 u-layout-cell-2">
                 <div class="u-container-layout u-container-layout-4">
                   <div class="u-form u-form-1">
-                    <form action="https://formsubmit.co/riskiwebsite78@gmail.com" method="POST" class="u-clearfix u-form-spacing-24 u-form-vertical u-inner-form" style="padding: 24px;" source="email" name="form">
+                    <!-- <form action="https://formsubmit.co/riskiwebsite78@gmail.com" method="POST" class="u-clearfix u-form-spacing-24 u-form-vertical u-inner-form" style="padding: 24px;" source="email" name="form">
                       <input type="hidden" id="siteId" name="siteId" value="1655911">
-                      <input type="hidden" id="pageId" name="pageId" value="1655921">
-                      <div class="u-form-group u-form-name u-label-none">
+                      <input type="hidden" id="pageId" name="pageId" value="1655921"> -->
+                      <div class="u-align-center u-form-group u-form-">
+                      <div class="google-maps">
+                      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.82065004654!2d106.84680521413696!3d-6.154769912038785!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f5027c0bbad7%3A0x34ba7a736bf4600b!2sOffice%20tower%20A%20MGK%20Kemayoran!5e0!3m2!1sid!2sid!4v1649697164250!5m2!1sid!2sid" width="500" height="350" style="border:0;" allowfullscreen=""  >
+                      </iframe>
+                      </div>
+                      <!-- <div class="u-form-group u-form-name u-label-none">
                         <label for="name-3b9a" class="u-label">Name</label>
                         <input type="text" placeholder="Enter your Name(disabled)" id="name-3b9a" name="name" class="u-border-2 u-border-custom-color-1 u-border-no-left u-border-no-right u-border-no-top u-input u-input-rectangle u-input-1" disabled>
                       </div>
@@ -293,16 +299,16 @@
                       <div class="u-form-group u-form-message u-label-none">
                         <label for="message-3b9a" class="u-label">Message</label>
                         <textarea placeholder="Enter your message (disabled)" rows="4" cols="50" id="message-3b9a" name="message" class="u-border-2 u-border-custom-color-1 u-border-no-left u-border-no-right u-border-no-top u-input u-input-rectangle u-input-3" disabled></textarea>
-                      </div>
+                      </div> -->
                       <!-- <div class="u-align-right u-form-group u-form-submit"> -->
                         <!-- " class="u-border-none u-btn u-btn-submit u-button-style u-custom-color-1 u-hover-palette-1-dark-1 u-btn-3"> SUBMIT </a> -->
                         <!-- <input type="submit" value="submit" class="u-form-control"> -->
                       <!-- </div> -->
-                      <div class="u-align-right u-form-group u-form-">
+                      
                       
                       <a href="mailto:Pt.indoparasistasemesta@gmail.com?subject=Isi%20judul%20email&body=Silahkan%20isi%20deskripsi%20pesan%20anda%21"><button type="button" style="background-color:#c17200;border-color:#c17200;color:#000"class="btn btn-secondary btn-lg btn-block">Send Me an Email</button> </a>  
-                      
-                    </div>
+                      </div>
+                    
                     </form>
                   </div>
                 </div>

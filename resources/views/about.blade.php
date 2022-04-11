@@ -42,7 +42,7 @@
     <header class="u-black u-clearfix u-header u-sticky u-sticky-4b43 u-header" id="sec-345c">
       <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
         <a href="/index" class="u-image u-logo u-image-1">
-          <img src="new/img/newlogo.png" class="u-logo-image u-logo-image-1">
+        <img src="new/img/newlogo.png " width="100" height="100" >
         </a>
         <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1">
           <div class="menu-collapse u-custom-font" style="font-size: 1rem; letter-spacing: 0px; font-family: Poppins; font-weight: 700;">
@@ -153,12 +153,7 @@
     </section>
 
 
-    {{-- <section class="maps-location">
-      <div class="maps-posisi">
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d416.9598973660723!2d106.8500568000402!3d-6.155695289252593!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f5027c0bbad7%3A0x34ba7a736bf4600b!2sOffice%20tower%20A%20MGK%20Kemayoran!5e0!3m2!1sid!2sid!4v1649435313437!5m2!1sid!2sid" >
-      </iframe>
-      </div>
-    </section> --}}
+
 
 
     <section class="u-align-center u-black u-clearfix u-section-4" id="sec-16eb">
