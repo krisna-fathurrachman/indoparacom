@@ -39,8 +39,8 @@
   <body class="u-body u-xl-mode">
     <header class="u-black u-clearfix u-header u-sticky u-sticky-4b43 u-header" id="sec-345c">
       <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
-        <a href="/home" class="u-image u-logo u-image-1">
-           <img src="new/img/newlogo.png " width="100" height="100" >
+        <a href="/index" class="u-image u-logo u-image-1">
+           <img src="new/img/newlogo.png " width="125" height="125" >
         </a>
        
         <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1">
