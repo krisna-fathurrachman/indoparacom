@@ -1,3 +1,9 @@
+@section('title')
+    Pt Indo para sista semesta
+@endsection
+@section('description')
+    Pt Indo para sista semesta Penyedia Tank communicator 
+@endsection
 <!DOCTYPE html> 
 <html style="font-size: 16px;">
   <head>
