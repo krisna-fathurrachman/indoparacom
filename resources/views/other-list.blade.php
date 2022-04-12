@@ -5,7 +5,6 @@
     <meta charset="utf-8">
     <meta name="keywords" content="Indopara, Indopara Sista Semesta, PT. Indopara Sista Semesta, Produk Indopara, Other List, Front Observer Manpack">
     <meta name="description" content="PT. Indopara Sista Semesta merupakan perusahaan yang bergerak di bidang perlatan militer indonesia">
-    <meta name="page_type" content="np-temp
     <meta name="page_type" content="np-template-header-footer-from-plugin">
     <title>Other List</title>
     <link rel="stylesheet" href="css/nicepage3.css" media="screen">
@@ -118,8 +117,7 @@
               <span>About the Company</span>
              PT. INDOPARA SISTA SEMESTA adalah 
              perusahaan perdagangan barang dan 
-              jasa untuk instansi militer, maupun 
-              turnkey solution.
+              jasa untuk instansi militer.
             </p>
               <div class="footer-icons">
               <a href="#"><i class="fa fa-facebook"></i></a>

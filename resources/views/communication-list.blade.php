@@ -142,8 +142,7 @@
               <span>About the Company</span>
              PT. INDOPARA SISTA SEMESTA adalah 
              perusahaan perdagangan barang dan 
-              jasa untuk instansi militer, maupun 
-              turnkey solution.
+              jasa untuk instansi militer.
             </p>
              <div class="footer-icons">
               <a href="#"><i class="fa fa-facebook"></i></a>

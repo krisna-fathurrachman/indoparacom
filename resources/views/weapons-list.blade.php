@@ -227,8 +227,7 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
               <span>About the Company</span>
              PT. INDOPARA SISTA SEMESTA adalah 
              perusahaan perdagangan barang dan 
-              jasa untuk instansi militer, maupun 
-              turnkey solution.
+              jasa untuk instansi militer.
             </p>
              <div class="footer-icons">
               <a href="#"><i class="fa fa-facebook"></i></a>
