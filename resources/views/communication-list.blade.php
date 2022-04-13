@@ -85,10 +85,10 @@
         <h2 class="u-text u-text-default u-text-2" data-animation-name="lightSpeedIn" data-animation-duration="1000" data-animation-direction="">Radio Repeater</h2>
       </div>
     </section>
-    <section class="u-black u-clearfix u-section-2" id="sec-25df">
-      <div class="u-clearfix u-sheet u-valign-middle-lg u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-sheet-1">
-        <img class="u-image u-image-default u-image-1" src="images/commu1-removebg-preview.png" alt="" data-image-width="376" data-image-height="444" data-animation-name="flipIn" data-animation-duration="1000" data-animation-direction="X">
-        <h2 class="u-align-right u-text u-text-default u-text-1" data-animation-name="shake" data-animation-duration="1000" data-animation-direction=""> DICOM RF2350<br>EPM Mobile T​​ransceiver<br>
+    <section class="u-black u-clearfix u-section-2" id="carousel_cc51">
+      <div class="u-clearfix u-sheet u-valign-middle-xl u-sheet-1">
+        <img class="u-image u-image-default u-image-1" src="images/vsat-removebg-preview.png" alt="" data-image-width="559" data-image-height="447" data-animation-name="flipIn" data-animation-duration="1000" data-animation-direction="X">
+        <h2 class="u-align-right u-text u-text-default u-text-1" data-animation-name="shake" data-animation-duration="1000" data-animation-direction=""> Satellite VSAT IP<br>
         </h2>
       </div>
     </section>
@@ -99,10 +99,17 @@
         </h2>
       </div>
     </section>
-    <section class="u-black u-clearfix u-section-4" id="carousel_1b6e">
-      <div class="u-clearfix u-sheet u-valign-middle-lg u-valign-middle-xs u-sheet-1">
+    <section class="u-black u-clearfix u-section-4" id="sec-25df">
+      <div class="u-clearfix u-sheet u-valign-middle-lg u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-sheet-1">
+        <img class="u-image u-image-default u-image-1" src="images/commu1-removebg-preview.png" alt="" data-image-width="376" data-image-height="444" data-animation-name="flipIn" data-animation-duration="1000" data-animation-direction="X">
+        <h2 class="u-align-right u-text u-text-default u-text-1" data-animation-name="shake" data-animation-duration="1000" data-animation-direction=""> DICOM RF2350<br>EPM Mobile T​​ransceiver<br>
+        </h2>
+      </div>
+    </section>
+    <section class="u-black u-clearfix u-section-5" id="carousel_1b6e">
+      <div class="u-clearfix u-sheet u-sheet-1">
         <img class="u-image u-image-default u-image-1" src="images/commu5-removebg-preview.png" alt="" data-image-width="375" data-image-height="451" data-animation-name="flipIn" data-animation-duration="1000" data-animation-direction="X">
-        <h2 class="u-align-right u-text u-text-default u-text-1" data-animation-name="shake" data-animation-duration="1000" data-animation-direction=""> DICOM AR20<br> Automatic Rebroadcast<br>Station<br>
+        <h2 class="u-align-left u-text u-text-default u-text-1" data-animation-name="shake" data-animation-duration="1000" data-animation-direction=""> DICOM AR20<br> Automatic Rebroadcast<br>Station<br>
         </h2>
       </div>
     </section>
