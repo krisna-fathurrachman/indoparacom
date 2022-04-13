@@ -37,7 +37,7 @@
   </head>
   <body class="u-body u-xl-mode"><header class="u-black u-clearfix u-header u-header" id="sec-b812"><div class="u-clearfix u-sheet u-sheet-1">
         <a href="/index" class="u-image u-logo u-image-1" data-image-width="1024" data-image-height="1024">
-          <img src="images/newlogo.png" class="u-logo-image u-logo-image-1">
+          <img src="images/newlogo.png" width="125" height="125" >
         </a>
         <nav class="u-dropdown-icon u-menu u-menu-dropdown u-offcanvas u-menu-1">
           <div class="menu-collapse u-custom-font" style="font-family: Poppins; font-weight: 600; font-size: 1.125rem;">
