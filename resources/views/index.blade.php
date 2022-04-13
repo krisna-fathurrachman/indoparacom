@@ -171,8 +171,16 @@
             </div>
             </a>
         </div>
-        <!-- <a href="https://nicepage.com/c/real-estate-website-templates" class="u-btn u-button-style u-none u-text-custom-color-1 u-text-hover-palette-2-base u-btn-1">our products&nbsp;<span class="u-file-icon u-icon u-text-custom-color-1"><img src="images/3.png" alt=""></span>
-        </a> -->
+        <!-- <div class="gallery-container h-2">
+        <div class="gallery-item">
+            <div class="image">
+            <a href="/communication-list">
+                <img src="new/img/satelite.jpg" alt="satelite">
+            </div>
+            <div class="text"> Satelite </div>
+            </div>
+            </a>
+        </div> -->
     </div> 
     </div>
     </section>
@@ -194,7 +202,7 @@
             <!--TESTIMONIAL 1 -->
             <div class="item">
               <div class="shadow-lg p-4 bg-white rounded">
-                <img src="new/img/team/akun.png" class="mx-auto rounded-circle" alt="">
+                <img src="new/img/team/hadiyanapng.png" class="mx-auto rounded-circle" alt="">
                 <h5 class="pb-2 pt-3">A. Handiyana Sihombing</h5>
                 <p class="mb-0 text-muted">Direktur utama</p>
               </div>             
@@ -203,7 +211,7 @@
             <!--TESTIMONIAL 2 -->
             <div class="item">
               <div class="shadow-lg p-4 bg-white rounded">
-                <img  src="new/img/team/akun.png" class="mx-auto rounded-circle" alt="">
+                <img  src="new/img/team/okke.jpeg" class="mx-auto rounded-circle" alt="">
                 <h5 class="pb-2 pt-3">Okke Triguna</h5>
                 <p class="mb-0 text-muted">General Manager</p>
               </div>
@@ -213,7 +221,7 @@
             <!--TESTIMONIAL 3 -->
             <div class="item">
               <div class="shadow-lg p-4 bg-white rounded">
-                <img src="new/img/team/akun.png" class="mx-auto rounded-circle" alt="">
+                <img src="new/img/team/sofian.jpeg" class="mx-auto rounded-circle" alt="">
                 <h5 class="pb-2 pt-3">Sofinal</h5>
                 <p class="mb-0 text-muted">Operational Manager</p>
               </div>
@@ -223,19 +231,27 @@
             <!--TESTIMONIAL 4 -->
             <div class="item">
               <div class="shadow-lg p-4 bg-white rounded">
-                <img  src="new/img/team/akun.png" class="mx-auto rounded-circle" alt="">
+                <img  src="new/img/team/anastasya.jpeg" class="mx-auto rounded-circle" alt="">
                 <h5 class="pb-2 pt-3">Anastasya Dorothy Sinambela</h5>
                 <p class="mb-0 text-muted">Staf Sekretaris Direksi</p>
               </div>
               
             </div>
-            <!--END OF TESTIMONIAL 4 -->
+            
             <!--TESTIMONIAL 5 -->
             <div class="item">
                <div class="shadow-lg p-4 bg-white rounded">
-                 <img  src="new/img/team/akun.png" class="mx-auto rounded-circle" alt="">
+                 <img  src="new/img/team/hanipng.png" class="mx-auto rounded-circle" alt="">
                  <h5 class="pb-2 pt-3">Hani Widyaningrum</h5>
                  <p class="mb-0 text-muted">HRD</p>
+               </div>
+                   <!--END OF TESTIMONIAL 4 --> 
+            </div>
+            <div class="item">
+               <div class="shadow-lg p-4 bg-white rounded">
+                 <img  src="new/img/team/akun.png" class="mx-auto rounded-circle" alt="">
+                 <h5 class="pb-2 pt-3">Rheinno Permata Soufyan</h5>
+                 <p class="mb-0 text-muted">Sales Manager</p>
                </div>
                     
             </div>
