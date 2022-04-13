@@ -6117,6 +6117,7 @@ section.u-image:not(.u-hover-box),
   .u-layout-wrap:not(.u-layout-custom-sm) .u-layout .u-layout-cell {
     border-left: 0 !important;
     border-right: 0 !important;
+    
   }
   .u-absolute-hcenter,
   .u-absolute-hcenter-sm {
@@ -6134,6 +6135,7 @@ section.u-image:not(.u-hover-box),
   .u-layout-wrap:not(.u-layout-custom-xs) .u-layout .u-layout-cell {
     border-left: 0 !important;
     border-right: 0 !important;
+    margin-top: 20px;
   }
   .u-absolute-hcenter,
   .u-absolute-hcenter-xs {
