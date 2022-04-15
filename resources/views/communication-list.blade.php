@@ -77,36 +77,30 @@
           </div>
         </nav>
       </div></header>
-    <section class="u-black u-clearfix u-section-1" id="sec-cd9d">
-      <div class="u-clearfix u-sheet u-valign-middle-md u-valign-middle-xs u-sheet-1">
-        <h2 class="u-text u-text-custom-color-1 u-text-default u-text-1">COMMUNICATIONS LIST</h2>
+   <section class="u-black u-clearfix u-section-1" id="carousel_cc51">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <h2 class="u-text u-text-custom-color-1 u-text-default u-text-1">COMMUNICATIO​NS LIST</h2>
         <div class="u-border-3 u-border-custom-color-1 u-line u-line-horizontal u-line-1"></div>
-        <img class="u-image u-image-default u-image-1" src="images/maintenancetruck-removebg-preview.png" alt="" data-image-width="615" data-image-height="405" data-animation-name="lightSpeedIn" data-animation-duration="1000" data-animation-direction="">
-        <h2 class="u-text u-text-default u-text-2" data-animation-name="lightSpeedIn" data-animation-duration="1000" data-animation-direction="">Radio Repeater</h2>
-      </div>
-    </section>
-    <section class="u-black u-clearfix u-section-2" id="carousel_cc51">
-      <div class="u-clearfix u-sheet u-valign-middle-xl u-sheet-1">
         <img class="u-image u-image-default u-image-1" src="images/vsat-removebg-preview.png" alt="" data-image-width="559" data-image-height="447" data-animation-name="flipIn" data-animation-duration="1000" data-animation-direction="X">
-        <h2 class="u-align-right u-text u-text-default u-text-1" data-animation-name="shake" data-animation-duration="1000" data-animation-direction=""> Satellite VSAT IP<br>
+        <h2 class="u-align-right u-text u-text-default u-text-2" data-animation-name="shake" data-animation-duration="1000" data-animation-direction=""> Satellite VSAT IP<br>
         </h2>
       </div>
     </section>
-    <section class="u-black u-clearfix u-section-3" id="carousel_0e00">
+    <section class="u-black u-clearfix u-section-2" id="carousel_0e00">
       <div class="u-clearfix u-sheet u-valign-middle-lg u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-sheet-1">
         <img class="u-image u-image-default u-image-1" src="images/commu3-removebg-preview.png" alt="" data-image-width="376" data-image-height="439" data-animation-name="flipIn" data-animation-duration="1000" data-animation-direction="X">
         <h2 class="u-text u-text-default u-text-1" data-animation-name="shake" data-animation-duration="1000" data-animation-direction=""> DICOM RF23<br> EPM Handheld Radio<br>
         </h2>
       </div>
     </section>
-    <section class="u-black u-clearfix u-section-4" id="sec-25df">
+    <section class="u-black u-clearfix u-section-3" id="sec-25df">
       <div class="u-clearfix u-sheet u-valign-middle-lg u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-sheet-1">
         <img class="u-image u-image-default u-image-1" src="images/commu1-removebg-preview.png" alt="" data-image-width="376" data-image-height="444" data-animation-name="flipIn" data-animation-duration="1000" data-animation-direction="X">
         <h2 class="u-align-right u-text u-text-default u-text-1" data-animation-name="shake" data-animation-duration="1000" data-animation-direction=""> DICOM RF2350<br>EPM Mobile T​​ransceiver<br>
         </h2>
       </div>
     </section>
-    <section class="u-black u-clearfix u-section-5" id="carousel_1b6e">
+    <section class="u-black u-clearfix u-section-4" id="carousel_1b6e">
       <div class="u-clearfix u-sheet u-sheet-1">
         <img class="u-image u-image-default u-image-1" src="images/commu5-removebg-preview.png" alt="" data-image-width="375" data-image-height="451" data-animation-name="flipIn" data-animation-duration="1000" data-animation-direction="X">
         <h2 class="u-align-left u-text u-text-default u-text-1" data-animation-name="shake" data-animation-duration="1000" data-animation-direction=""> DICOM AR20<br> Automatic Rebroadcast<br>Station<br>
